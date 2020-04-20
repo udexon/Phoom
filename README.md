@@ -1,7 +1,7 @@
 # Phoom
 Phoom VR AR
 
-Some people may relate Phoom to other projects with name suffixed by -oom. Read on the see how we transcend the predecessors.
+Some people may relate Phoom to other projects with name suffixed by -oom. The name Phoom is derived from [Phos Metashellet](https://github.com/udexon/Metashellet), one of the core components of Phoom, and the impression of power of the suffix -oom. Read on the see how we transcend the predecessors.
 
 We believe we are blazing a trail that is inevitable in the evolution of computing technology &mdash; not only combining image processing and virtual (augmented) reality (and of course, artificial intelligence) &mdash; but also synergizing free and open source software development, social networks, shared economies and start-up business.
 
