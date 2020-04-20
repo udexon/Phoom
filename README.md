@@ -5,7 +5,7 @@ Some people may relate Phoom to other projects with name suffixed by -oom. The n
 
 We believe we are blazing a trail that is inevitable in the evolution of computing technology &mdash; not only combining image processing and virtual (augmented) reality (and of course, artificial intelligence) &mdash; but also synergizing free and open source software development, social networks, shared economies and start-up business.
 
-- Imagine an app that extract the face or body of someone dancing, merging the dancing bodies of a dozen or several dozen other dancers, projected into an augmented reality, letting all participants to participate in an AR dance pool &mdash; much like a Zoom session, but in 3D AR.
+- Imagine an app that extracts the face or body of someone dancing, merging the dancing bodies of a dozen or several dozens other dancers at different locations, projected into an augmented reality, letting all participants to participate in an AR dance pool &mdash; much like a Zoom session, but in 3D AR.
 
 - Imagine, instead of seeing half a dozen of your colleagues in six split screens, now they are seated in a virtual boardroom at a round table, in vivid 3D views.
 
