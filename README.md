@@ -9,12 +9,15 @@ Imagine an app that extract the face or body of someone dancing, merging the dan
 
 That is the vision of Phoom.
 
-1. https://github.com/huningxin
+- A. https://github.com/huningxin
 - https://codepen.io/huningxin/pen/wqBvRo
 
-2. https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
+- B. https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
 
-3. https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md
+- C. https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md
 
-4. https://github.com/udexon/Metashellet
+- D. https://github.com/udexon/Metashellet
 
+Projects A and B above are two impressive open source OpenCV examples. They represent the kind of projects that give us the confidence to challenge Zoom and which we can use as our building blocks.
+
+However, with projects A and B alone, we cannot overcome the conventional obstacles facing isolated individual programmers in  free software development, resulting in the widening gaps in achievements between teams funded by billion, nay, trillion dollars corporations and teams made up of isolated individual programmers.
