@@ -1,4 +1,5 @@
 # Phoom
+- Zoom, Augmented &mdash; 3D AR VR
 - A Free and Open Source collaborative AR VR project using Cloudless and ID-less Computing
 
 Some people may relate Phoom to other projects with name suffixed by -oom. The name Phoom is derived from [Phos Metashellet](https://github.com/udexon/Metashellet), one of the core components of Phoom, and the impression of power of the suffix -oom. Read on the see how we transcend the predecessors.
