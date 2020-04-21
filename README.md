@@ -1,5 +1,5 @@
 # Phoom
-- Zoom, Augmented &mdash; 3D AR VR
+- _Like Zoom, But Augmented &mdash; 3D AR VR_
 - A Free and Open Source collaborative AR VR project using Cloudless and ID-less Computing
 
 Some people may relate Phoom to other projects with name suffixed by -oom. The name Phoom is derived from [Phos Metashellet](https://github.com/udexon/Metashellet), one of the core components of Phoom, and the impression of power of the suffix -oom. Read on the see how we transcend the predecessors.
@@ -17,7 +17,7 @@ That is the vision of Phoom.
 
 - A. Browser OpenCV Camera Demo
   - A1. [WebSight](https://david.blob.core.windows.net/idt2019/wasm/index-video.html)
-  - A2. [Hu Ningxin](https://github.com/huningxin)'s [Codepen Browser OpenCV Camera Demo](https://codepen.io/huningxin/pen/wqBvRo)
+  - A2. [Hu Ningxin](https://github.com/huningxin)'s [Codepen Browser OpenCV Camera Demo](https://codepen.io/huningxin/pen/wqBvRo) [Other Codepen Pens (Projects)](https://codepen.io/huningxin/pens/public?grid_type=list)
 
 - B. Satya Mallick's OpenCV Tutorial 
   - https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
