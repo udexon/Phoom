@@ -11,14 +11,22 @@ We believe we are blazing a trail that is inevitable in the evolution of computi
 
 That is the vision of Phoom.
 
-- A. https://github.com/huningxin
-- https://codepen.io/huningxin/pen/wqBvRo
 
-- B. https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
+#### Phoom Building Blocks:
 
-- C. https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md
+- A. Hu Ningxin's Codepen Browser OpenCV Camera Demo
+  - https://github.com/huningxin
+  - https://codepen.io/huningxin/pen/wqBvRo
 
-- D. https://github.com/udexon/Metashellet
+- B. Satya Mallick's OpenCV Tutorial 
+  - https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
+  - https://github.com/spmallick/learnopencv
+  
+- C. XidWeb (ID-less Web)
+  - https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md
+
+- D. Phos MetaShellet 
+  - https://github.com/udexon/Metashellet
 
 Projects A and B above are two impressive open source OpenCV examples. They represent the kind of projects that give us the confidence to challenge Zoom and which we can use as our building blocks.
 
@@ -33,3 +41,16 @@ A more immediate and relevant benefit to participating developers is the ability
 - code can be shared amongst programmers and projects _LIVE_ down to _ONE WORD AT A TIME_ where "word" is the term for "function name" used in Phos and Forth (programming languages), in contrast to repositories like GitHub, where the code is essentially _dead_, i.e. they are not immediately executable, need to be downloaded, set up, installed etc. before being run.
 
 - the code and projects can be stored on physical mobile devices or desktop computers owned by individual programmers, thus departing from the _Cloud Computing_ paradigm, hence the name _Cloudless Computing_.
+
+
+### Phoom Initialization
+
+1. Use hands to trace out head and body outline &mdash; _Namaste_ over head!!
+  - Tilt head together with shoulders sideways (left, right) to trace out head and body outline
+
+2. Remove background
+
+
+
+
+
