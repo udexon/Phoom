@@ -17,7 +17,7 @@ That is the vision of Phoom.
 
 - A. Browser OpenCV Camera Demo
   - A1. [WebSight](https://david.blob.core.windows.net/idt2019/wasm/index-video.html)
-  - A2. [Hu Ningxin](https://github.com/huningxin)'s [Codepen Browser OpenCV Camera Demo](https://codepen.io/huningxin/pen/wqBvRo) [Other Codepen Pens (Projects)](https://codepen.io/huningxin/pens/public?grid_type=list)
+  - A2. [Hu Ningxin](https://github.com/huningxin)'s [Codepen Browser OpenCV Camera Demo](https://codepen.io/huningxin/pen/wqBvRo); [Other Codepen Pens (Projects)](https://codepen.io/huningxin/pens/public?grid_type=list)
 
 - B. Satya Mallick's OpenCV Tutorial 
   - https://www.learnopencv.com/simple-background-estimation-in-videos-using-opencv-c-python/
@@ -28,6 +28,7 @@ That is the vision of Phoom.
 
 - D. Phos MetaShellet 
   - https://github.com/udexon/Metashellet
+  - https://github.com/udexon/waforth
 
 Projects A and B above are two impressive open source OpenCV examples. They represent the kind of projects that give us the confidence to challenge Zoom and which we can use as our building blocks.
 
