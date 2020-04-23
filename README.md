@@ -59,6 +59,8 @@ We have also created a new function `procvid( alg )` based on the original `proc
 
 The screenshot above shows the output of `procvid('canny')` in the bottom canvas (`id="cvs"`).
 
+3. You can just download the code from the directory above and unpack it in a path accessible by http server.
+
 
 ### Future Work
 
