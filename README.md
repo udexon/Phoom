@@ -55,7 +55,7 @@ A more immediate and relevant benefit to participating developers is the ability
 
 <img src="https://github.com/udexon/Phoom/blob/master/room.png" width=600>
 
-We have also created a new function `procvid( alg )` based on the original `processVideo()` so that we can enter the command `procvid( alg )` where `alg` is the choice of algorithms (listed in `script.js`), which take a snapshot from the video stream, and process it with OpenCV functions (stored in `cv` object).
+We have also created a new function `procvid( alg )` based on the original `processVideo()` so that we can enter the command `procvid( alg )` in the browser console where `alg` is the choice of algorithms (listed in `script.js`), which takes a snapshot from the video stream, and process it with OpenCV functions (stored in `cv` object).
 
 The screenshot above shows the output of `procvid('canny')` in the bottom canvas (`id="cvs"`).
 
