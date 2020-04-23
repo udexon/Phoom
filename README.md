@@ -61,7 +61,7 @@ The screenshot above shows the output of `procvid('canny')` in the bottom canvas
 
 3. We can now build up our background subtraction algorithm using this code base.
 
-4. You can just download the code from the directory above and unpack it in a path accessible by http server.
+4. You can just download the code from the directory above and unpack it in a path accessible by http server to run it. No additonal set up is required.
 
 
 ### Future Work
