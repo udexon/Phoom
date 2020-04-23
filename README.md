@@ -45,9 +45,24 @@ A more immediate and relevant benefit to participating developers is the ability
 - the code and projects can be stored on physical mobile devices or desktop computers owned by individual programmers, thus departing from the _Cloud Computing_ paradigm, hence the name _Cloudless Computing_.
 
 
-### Phoom Initialization
 
-1. Use hands to trace out head and body outline &mdash; _Namaste_ over head!!
+### Work in Progress
+
+1. We have forked Hu Ningxin's OpenCV WebAssembly demo from CodePen and uploaded to:
+- https://github.com/udexon/Phoom/tree/master/opencv-js-video-processing-webassembly
+
+2. We have modified `index.html` to add a buffer canvas (`id="cvs"`) below the camera / video processing output canvas (`id="canvasOutput"`). 
+
+<img src="https://github.com/udexon/Phoom/blob/master/room.png" width=600>
+
+We have also created a new function `procvid( alg )` based on the original `processVideo()` so that we can enter the command `procvid( alg )` where `alg` is the choice of algorithms (listed in `script.js`).
+
+The screenshot above shows the output of `procvid('canny')` in the bottom canvas (`id="cvs"`).
+
+
+### Future Work
+
+1. Phoom Initialization: Use hands to trace out head and body outline &mdash; _Namaste_ over head!!
   - Tilt head together with shoulders sideways (left, right) to trace out head and body outline
   - Remove background
   
