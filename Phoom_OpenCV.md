@@ -1,10 +1,13 @@
+# &middot; &middot; &middot; _Now Everyone can "OpenCV"_ &middot; &middot; &middot;
+
+In this article, we shall demonstrate how to simplify [Hu Ningxin OpenCV WebAssembly video processing demo](https://codepen.io/huningxin/pen/NvjdeN) into Forth like Reverse Polish Notation scripts as follow:
 
 ```js
-F("src: show:")
+A: F("src: show:")
 
-F("src: gray: show:")
+B: F("src: gray: show:")
 
-F("src: gray: blur: show:")
+C: F("src: gray: blur: show:")
 ```
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/Phoom_src.png" width=600>
