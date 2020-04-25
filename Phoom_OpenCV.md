@@ -12,7 +12,7 @@ B: F("src: gray: show:")
 C: F("src: gray: blur: show:")
 ```
 
-The _words_ (a Forth termininology) `src: gray: blur: show:` are mapped the following JavaScript functions respectively in https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/phos/phoom.js:
+The _words_ (a Forth termininology) `src: gray: blur: show:` are mapped to the following JavaScript functions respectively in https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/phos/phoom.js:
 
 ```js
 fgl_src()
