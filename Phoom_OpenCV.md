@@ -1,5 +1,7 @@
 # &middot; &middot; &middot; _Now Everyone can "OpenCV"_ &middot; &middot; &middot;
 
+- _due credits to Hu Ningxin for his [OpenCV JavaScript WebAssembly Video Processing demo](https://codepen.io/huningxin/pen/NvjdeN)
+
 In this article, we shall demonstrate how to simplify [Hu Ningxin OpenCV WebAssembly video processing demo](https://codepen.io/huningxin/pen/NvjdeN) into Forth like Reverse Polish Notation scripts as follow:
 
 ```js
@@ -23,7 +25,7 @@ fgl_show()
 - pushes non-function words on to the stack;
 - maps function words (suffixed by colon `':'`) to JavaScript functions `fgl_*()`, executes the target function, and pushes the result(s) on to the stack.
 
-We have forked Hu Ningxin's demo and upload to:
+We have forked Hu Ningxin's demo and uploaded it to:
 
 https://github.com/udexon/Phoom/tree/master/Phoom_OpenCV
 
