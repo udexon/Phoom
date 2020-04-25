@@ -47,15 +47,28 @@ As such you can see the outputs of script A, B and C at the bottom left corners 
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/Phoom_blur.png" width=600>
 
+Figures 2A, 2B and 2C show the cropped and enlarged bottom left canvas from figures 1A, 1B and 1C respectively.
+
+- Figure 2A
+
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/large_src.png" width=600>
+
+- Figure 2B
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/large_gray.png" width=600>
 
+- Figure 2C
+
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/large_blur.png" width=600>
 
+- Figure 3A
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/cmd_src.png" width=600>
 
+- Figure 3B
+
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/cmd_gray.png" width=600>
+
+- Figure 3C
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/cmd_blur.png" width=600>
