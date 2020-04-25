@@ -1,0 +1,1000 @@
+  190  wasm2wat kernel.wasm >kernel.wat
+  191  gedit kernel.c kernel.wat
+  192  cd ..
+  193  ls
+  194  cd ..
+  195  ls
+  196  less wasm_forth.egg-info/
+  197  ls wasm_forth.egg-info/
+  198  python3.6 -m venv env
+  199  sudo add-apt-repository ppa:jonathonf/python-3.6
+  200  python3.6 -m venv env
+  201  pip
+  202  pip3
+  203  python3.6 -m venv env
+  204  ls env
+  205  ls env/bin
+  206  pip venv
+  207  pip i venv
+  208  pip install venv
+  209  pip3.6 install venv
+  210  env/bin/pip3.6 install venv
+  211  env/bin/pip3.6 install --upgrade pip
+  212  env/bin/pip3.6 install venv
+  213  python3.6 -m venv env
+  214  source env/bin/activate
+  215  ls ..
+  216  ls ../binaryen-master/
+  217  ls ../binaryen-master/bin
+  218  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib
+  219  python setup.py develop
+  220  python kernel
+  221  LD_LIBRARY_PATH=/home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib
+  222  python kernel
+  223  python kernel -L /home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib
+  224  PYTHONPATH=/home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib python kernel
+  225  LD_LIBRARY_PATH=/home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib python kernel
+  226  export LD_LIBRARY_PATH=/home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib
+  227  python kernel
+  228  ls
+  229  grep -i bina *
+  230  grep -i bina */*
+  231  grep -i binaryneh */*
+  232  grep -i binaryen *
+  233  grep -i binaryenh *
+  234  grep -i binaryenh */*
+  235  grep -i binaryenh */*/*
+  236  grep -i binaryenha */*/* 
+  237  grep -i binaryenha */*/*/* 
+  238  grep -i binaryenha */*/*/*  2> /dev/null
+  239  grep -i binaryenha */*/*/*/* 
+  240  grep -i binaryenha */*/*/*/*  2> /dev/null
+  241  grep -i binaryenha */*/*/*/*/*  2> /dev/null
+  242  grep -i binaryenha */*/*/*/*/*/*  2> /dev/null
+  243  grep -i binaryenha */*/*/*/*/*/*/*  2> /dev/null
+  244  grep -i binaryenha */*/*/*/*/*/*/* 
+  245  grep -i binaryenha */*/*/*/*/*/*/*/* 
+  246  grep -i binaryenha */*/*/*/*/*/*/*/*/* 
+  247  grep -i binaryenha */*/*/*/*/*/*/*/*/*/* 
+  248  grep -i binaryenha */*/*/*/* 
+  249  grep -i binaryenha */*/*/*
+  250  grep -i binaryenha */*/*
+  251  grep -i binaryenha */*/* | less
+  252  ls
+  253  python kernel
+  254  ls
+  255  grep -i binaryenha */*/* | less
+  256  ls kernel/vendor/
+  257  cd kernel/vendor/
+  258  ls
+  259  mv binaryen-c.h _0711_binaryen-c.h 
+  260  cp ~/Downloads/binaryen-c.cpp .
+  261  cp ~/Downloads/binaryen-c.h .
+  262  ls
+  263  cd ..
+  264  ls
+  265  python setup.py develop
+  266  cd kernel/vendor/
+  267  ls
+  268  cp binaryen-c.h _0920_binaryen-c.h
+  269  cp _0711_binaryen-c.h binaryen-c.h
+  270  cd ../..
+  271  python setup.py develop
+  272  cd kernel/vendor/
+  273  ls
+  274  cp _0920_binaryen-c.h binaryen-c.h
+  275  cd ../..
+  276  python setup.py develop
+  277  history 
+  278  history  | grep build
+  279  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-master/lib
+  280  cd ..
+  281  unzip ~/Downloads/node-master.zip 
+  282  unzip ~/Downloads/binaryen-version_50.zip 
+  283  cd binaryen-version_50/
+  284  ls
+  285  less README.md 
+  286  cmake .
+  287  make
+  288  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-version_50/lib
+  289  cd ..
+  290  cd wasm-forth-master/
+  291  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-version_50/lib
+  292  cd system/
+  293  ls
+  294  tail h_kbd_backlight 
+  295  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  296  bg
+  297  cd
+  298  cd devel/
+  299  cd 5gl
+  300  cd Web-Assembly/
+  301  ./firefox/firefox &
+  302  cd wasm-forth-master/
+  303  ls
+  304  cd examples/
+  305  ls
+  306  cd script/
+  307  ls
+  308  cat README 
+  309  ls
+  310  python3 -m http.server 8080
+  311  python3 -m http.server 8088
+  312  cd ..
+  313  ls
+  314  cd ..
+  315  ls
+  316  ls kernel/
+  317  less kernel/__main__.py 
+  318  cd devel/
+  319  cd WebGL/
+  320  cd ..
+  321  cd 5gl
+  322  cd Web-Assembly/
+  323  ls
+  324  cd node-master/
+  325  make -j4
+  326  ls
+  327  ls -l node
+  328  ./node -v
+  329  cd ..
+  330  ls
+  331  cd wabt-master/
+  332  cd bin
+  333  ls
+  334  echo $PWD
+  335  df
+  336  cd ..
+  337  ls
+  338  cd ..
+  339  cd python/
+  340  ls
+  341  mkdir pycuda
+  342  cd pycuda/
+  343  ls
+  344  cat > demo2dsurface.py
+  345  python demo2dsurface.py 
+  346  pip install pycuda
+  347  df
+  348  pip install pycuda
+  349  sudo pip install pycuda
+  350  cd ..
+  351  ls
+  352  mkdir cuda
+  353  cd cuda
+  354  wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda_9.0.176_384.81_linux-run
+  355  cd ..
+  356  ls
+  357  unzip ~/Downloads/binaryen-version_40.zip 
+  358  cd binaryen-version_40/
+  359  ls
+  360  less README.md 
+  361  cmake .
+  362  make
+  363  cd lib
+  364  echo $PWD
+  365  top
+  366  ls
+  367  cd ..
+  368  ls
+  369  cd lib
+  370  ls
+  371  cd ..
+  372  ls
+  373  ls src
+  374  cd lib
+  375  echo $PWD
+  376  cd  
+  377  cd Documents/
+  378  cd Lenovo-K5/
+  379  cd QQBrowser/
+  380  ls
+  381  cd ..
+  382  diff -r QQBrowser/ /media/augustus/SAMSUNG/2018-09
+  383  diff -r QQBrowser/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/QQBrowser/
+  384  rm -fr QQBrowser/
+  385  df
+  386  diff -r Pictures-0511/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Pictures-0511/
+  387  rm -fr Pictures-0511/
+  388  diff -r Android/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Android/
+  389  diff -r system/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/system/
+  390  rm -fr Android/ system/
+  391  df
+  392  diff -r 0628 /media/augustus/SAMSUNG/2018-09/Lenovo-K5/0628
+  393  diff -r Download /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Download-0413/
+  394  diff -r Download-0413 /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Download-0413/
+  395  rm -fr Download-0413 
+  396  rm -fr 0628
+  397  df
+  398  cd ..
+  399  cd devel/
+  400  cd 5gl
+  401  cd Web-Assembly/
+  402  ls
+  403  cd wasm-forth-master/
+  404  ls
+  405  gedit README.md 
+  406  bg
+  407  python3.6 -m venv env
+  408  source env/bin/activate
+  409  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-version_40/lib
+  410  deactivate
+  411  cd ..
+  412  ls
+  413  mv waforth-master waforth-master-20180926
+  414  df
+  415  unzip ~/Downloads/waforth-master.zip 
+  416  cd waforth-master
+  417  python3.6 -m venv env
+  418  source env/bin/activate
+  419  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-version_40/lib
+  420  ls
+  421  deactive
+  422  deactivate
+  423  cd ..
+  424  ls
+  425  mv wasm-forth-master/ wasm-forth-master-20180926
+  426  unzip ~/Downloads/
+  427  unzip ~/Downloads/wasm-forth-master.zip 
+  428  cd wasm-forth-master
+  429  python3.6 -m venv env
+  430  source env/bin/activate
+  431  python setup.py build_ext -L /home/augustus/devel/5gws/Web-Assembly/binaryen-version_40/lib
+  432  python setup.py develop
+  433  python kernel
+  434  export LD_LIBRARY_PATH=/home/augustus/devel/5gws/Web-Assembly/binaryen-version_40/lib
+  435  python kernel
+  436  npm i
+  437  npm run build
+  438  deactivate
+  439  cd ../..
+  440  cd ..
+  441  cd kitty-master/
+  442  ls
+  443  grep -i gpu *
+  444  grep -i gpu */*
+  445  grep -i gpu */* | less
+  446  cd ..
+  447  cd waforth-master/
+  448  ls
+  449  cat README.md 
+  450  less README.md 
+  451  yarn
+  452  make
+  453  cd ..
+  454  mv waforth-master/  waforth-master-20180925
+  455  unzip ~/Downloads/wa*.zip
+  456  unzip ~/Downloads/waforth-master.zip
+  457  cd waforth-master
+  458  yarn
+  459  make
+  460  racket -v
+  461  sudo add-apt-repository ppa:plt/racket
+  462  df
+  463  gksu baobab &
+  464  df
+  465  make
+  466  export PATH=$PATH:/home/augustus/devel/5gl/Web-Assembly/wabt-master/bin
+  467  mak
+  468  make
+  469  make dev-server
+  470  ls _d
+  471  cd /media/augustus/SAMSUNG/
+  472  cd 2018-09
+  473  ls
+  474  ./cuda_9.0.176_384.81_linux-run 
+  475  cd 
+  476  cd devel/
+  477  cd python/
+  478  cd cuda
+  479  /media/augustus/SAMSUNG/2018-09/cuda_9.0.176_384.81_linux-run 
+  480  cd ..
+  481  unzip ~/Downloads/pyopencl-master.zip 
+  482  cd pyopencl-master/
+  483  . ~/Downloads/Miniconda3-latest-Linux-x86.sh 
+  484  ls -l ~/Downloads/Miniconda3-latest-Linux-x86.sh 
+  485  chmod u+x ~/Downloads/Miniconda3-latest-Linux-x86.sh 
+  486  ~/Downloads/Miniconda3-latest-Linux-x86.sh 
+  487  cd system/
+  488  ls
+  489  tail h_kbd_backlight 
+  490  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  491  bg
+  492  gksu baobab &
+  493  cd 
+  494  cd devel/
+  495  cd kitty-master/
+  496  ls
+  497  grep import *
+  498  grep import * | less
+  499  ls
+  500  mkdir _d
+  501  grep -n import * >> _d/import
+  502  grep -n import */* >> _d/import
+  503  grep -n import */*/* >> _d/import
+  504  grep -n import */*/*/* >> _d/import
+  505  grep -n import */*/*/*/* >> _d/import
+  506  grep -n import */*/*/*/*/* >> _d/import
+  507  grep -n import */*/*/*/*/*/* >> _d/import
+  508  grep -n import */*/*/*/*/*/*/* >> _d/import
+  509  grep -n import */*/*/*/*/*/*/*/* >> _d/import
+  510  grep -n import */*/*/*/*/*/*/*/*/* >> _d/import
+  511  grep -n import */*/*/*/*/*/*/*/*/*/* >> _d/import
+  512  grep -n import */*/*/*/*/*/*/*/*/*/*/* >> _d/import
+  513  cd _d
+  514  ls
+  515  wc import 
+  516  less import 
+  517  awk '{ print $2 }' import | sort | uniq | wc
+  518  awk '{ print $2 }' import | sort | uniq | less
+  519  grep -i -n gpu *
+  520  cd ..
+  521  grep -i -n gpu *
+  522  grep -i -n gpu */*
+  523  grep -i -n gpu */* >> _d/gpu &
+  524  less _d/gpu 
+  525  grep import _d/gpu
+  526  grep -i -n gpu */*/* >> _d/gpu &
+  527  grep def _d/gpu
+  528  less kitty/fonts/render.py 
+  529  gedit kitty/fonts/render.py 
+  530  bg
+  531  grep -i -n sprites */*/* >> _d/sprites &
+  532  cat _d/sprites 
+  533  grep -i -n sprites */* >> _d/sprites &
+  534  cat _d/sprites 
+  535  less _d/sprites 
+  536  gedit kitty_tests/fonts.py 
+  537  grep setup_for_test *
+  538  grep setup_for_test */*
+  539  grep collec */*
+  540  grep collections */*
+  541  grep send _d/gpu | grep def
+  542  grep collections */*
+  543  grep collections */* | grep def
+  544  grep collections */* | grep def 2> /dev/null
+  545  grep collections */* | grep def | less
+  546  echo $PATH
+  547  source /home/augustus/miniconda3/bin/activate root
+  548  conda config --add channels conda-forge
+  549  conda install pyopencl
+  550  pip install pyopencl
+  551  pip install --upgrade pip
+  552  pip install numpy
+  553  pip install pyopencl
+  554  pip install pybind11
+  555  pip install pyopencl
+  556  pip install pybind11
+  557  pip install pyopencl
+  558  ls /usr/lib
+  559  ls /usr/lib | less
+  560  ls
+  561  cd examples/
+  562  ls
+  563  python3 demo_array.py 
+  564  deactivate
+  565  source /home/augustus/miniconda3/bin/deactivate
+  566  ls
+  567  python3 demo.py
+  568  pip install pyopencl
+  569  python3 demo.py
+  570  ls
+  571  python3 demo.py
+  572  cd devel/
+  573  cd kitty-master/
+  574  ls
+  575  cd _d
+  576  ls
+  577  grep cl import 
+  578  grep ncl import 
+  579  grep opencl import 
+  580  cd
+  581  cd devel
+  582  cd 5gl
+  583  ls
+  584  ls -ld h*
+  585  cd hgrpn
+  586  ls
+  587  cd ..
+  588  ls
+  589  ls -ld h*
+  590  ls
+  591  tar zvcf hgrpn.tgz hgrpn
+  592  df
+  593  cd system/
+  594  tail h_kbd_backlight 
+  595  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  596  bg
+  597  history | grep ssh
+  598  ssh -p 2022 root@192.168.43.1
+  599  less lsr_sdcard_0927 
+  600  man tar
+  601  less lsr_sdcard_0927 
+  602  man tar
+  603  man rm
+  604  wc o_th 
+  605  grep Jun o_th
+  606  grep Jun o_th|wc
+  607  ls
+  608  cd tencent/
+  609  ls
+  610  cd 09277
+  611  cd 0927
+  612  ls ../0915
+  613  ls ../0915 -l
+  614  cp ../0915/fp_th.php .
+  615  ls
+  616  gunzip lsr_sdcard_0927.gz 
+  617  ls
+  618  ls -l
+  619  gedit fp_th.php
+  620  php fp_th.php lsr_sdcard_0927 | less
+  621  gedit fp_th.php
+  622  php fp_th.php lsr_sdcard_0927 | less
+  623  ls
+  624  grep th_ lsr_sdcard_0927 | less
+  625  grep th_ lsr_sdcard_0927 > o_th
+  626  grep Apr o_th | wc
+  627  grep Mar o_th | wc
+  628  grep Feb o_th | wc
+  629  grep Jan o_th | wc
+  630  grep May o_th | wc
+  631  grep Jun o_th | wc
+  632  grep Jul o_th | wc
+  633  php fp_th.php lsr_sdcard_0927 | less
+  634  php fp_th_tar.php lsr_sdcard_0927 | less
+  635  php fp_th_tar.php lsr_sdcard_0927 > r_tar
+  636  wc r_tar
+  637  ls
+  638  php fp_th_rm.php lsr_sdcard_0927 > r_rm
+  639  less r_rm
+  640  wc r_rm
+  641  php fp_th_tar.php lsr_sdcard_0927 > l_tar
+  642  wc l_tar 
+  643  less l_tar 
+  644  php fp_th_rm.php lsr_sdcard_0927 > r_rm
+  645  wc r_rm
+  646  cd
+  647  cd devel/
+  648  cd bitcoin/
+  649  ls
+  650  cd bitcoin-abc-master/
+  651  grep postfix *
+  652  ls
+  653  cd src
+  654  grep postfix *
+  655  gedit arith_uint256.h
+  656  ls
+  657  ls *.ccp | wc
+  658  ls *.cpp | wc
+  659  ls
+  660  ls */*.cpp | wc
+  661  ls */*/*.cpp | wc
+  662  ls */*/*/*.cpp | wc
+  663  gedit bitcoin-cli.cpp
+  664  gedit util.cpp 
+  665  grep WSAStartup *
+  666  grep WSAStartup * 2> /dev/null
+  667  grep WSAStartup */* 2> /dev/null
+  668  grep WSAStartup */*/* 2> /dev/null
+  669  grep WSAStartup */*/*/* 2> /dev/null
+  670  grep WSAStartup */*/*/* 
+  671  grep WSAStartup */*/*/*/* 
+  672  grep WSAStartup */*/*/*/*/* 
+  673  grep WSAStartup */*/*/*/*/*/* 
+  674  grep WSAStartup ../*/*/*/*/*/*/* 
+  675  grep WSAStartup ../*/*/*/*/*/*
+  676  grep WSAStartup ../*/*/*/*/*
+  677  grep WSAStartup ../*/*/*/*
+  678  grep WSAStartup ../*/*/*
+  679  grep WSAStartup ../*/*
+  680  grep WSAStartup ../*
+  681  grep WSAStartup ../*/*
+  682  ls *.h
+  683  cat *.h | less
+  684  grep -i hash *
+  685  grep -i hash * | less
+  686  grep -i -n hash * | less
+  687  cd
+  688  cd devel
+  689  ls
+  690  mkdir bitcoin
+  691  cd bitcoin/
+  692  unzip ~/Downloads/bitcoin-abc-master.zip 
+  693  tar xvf ../emasplus/femas.tgz 
+  694  ls
+  695  cd hgrpn
+  696  ls
+  697  ls ../bitcoin-abc-master/
+  698  ls ../bitcoin-abc-master/src
+  699  ln -s ../bitcoin-abc-master/src bitcoin
+  700  ls bitcoin
+  701  ls
+  702  php e 1 2 +
+  703  php e 1 2 + ec:
+  704  gedit e.php
+  705  bg
+  706  ln -s e.php dbg
+  707  php dbg 1 2 + ec:
+  708  ls bitcoin
+  709  gedit bitcoin/pow.cpp 
+  710  ls
+  711  sed 's/{/\n{/g' bitcoin/pow.cpp > o_p
+  712  less o_p
+  713  sed 's/;/\n;/g' o_p > o_p1
+  714  less o_p1
+  715  grep GetNextEDAWorkRequired bitcoin/*
+  716  grep GetNextEDAWorkRequired bitcoin/* 2> /dev/null
+  717  grep GetNextEDAWorkRequired bitcoin/*/* 2> /dev/null
+  718  grep GetNextEDAWorkRequired bitcoin/*/*/* 2> /dev/null
+  719  cd bitcoin
+  720  ls
+  721  grep main *
+  722  grep main * | less
+  723  less bitcoin-cli.cpp 
+  724  grep SetupEnvironment *
+  725  less util.cpp
+  726  grep // *
+  727  grep // * | less
+  728  grep -n // * | less
+  729  man tee
+  730  df
+  731  cd 5gl
+  732  cd devel/
+  733  cd WebGL/
+  734  cd ..
+  735  ls
+  736  cd 5gl
+  737  cd Web-Assembly/
+  738  ls
+  739  unzip ~/Downloads/bitcoin-ts-master.zip 
+  740  cd bitcoin-ts-master/
+  741  yarn
+  742  yarn watch
+  743  cd Documents/
+  744  cd ZTE
+  745  ls
+  746  cd 视频
+  747  ls
+  748  ls  -a
+  749  cd .fdc9bccfc2a54252bedc27b924204a0f/
+  750  ls
+  751  mpv 0.seg 
+  752  df
+  753  gksu baobab &
+  754  history | grep ssh
+  755  ssh -p 2022 root@192.168.43.1
+  756  ssh-keygen -f "/home/augustus/.ssh/known_hosts" -R [192.168.43.1]:2022
+  757  ssh -p 2022 root@192.168.43.1
+  758  cd 
+  759  cd Documents/
+  760  cd ZTE/
+  761  ls
+  762  diff -r 0928a/ /media/augustus/SAMSUNG/2018-09/ZTE/0928a/
+  763  rm -fr 0928a/
+  764  diff -r 0928b/ /media/augustus/SAMSUNG/2018-09/ZTE/0928b/
+  765  rm -fr 0928b/
+  766  df
+  767  cd
+  768  cd .cache/
+  769  ls
+  770  ls -lt | less 
+  771  du -s * | sort -n
+  772  ls -l thumbnails/
+  773  ls -lR thumbnails/ | less
+  774  df
+  775  cd
+  776  cd devel
+  777  df
+  778  unzip -l ~/Downloads/gecko-dev-master\(1\).zip | less
+  779  ls -l ~/Downloads/ge*.zip
+  780  rm ~/Downloads/gecko-dev-master\(1\).zip 
+  781  haskell
+  782  ghc
+  783  haskell
+  784  df
+  785  cd system/
+  786  cd tencent/
+  787  ls
+  788  cd 0927
+  789  ls
+  790  ls -lt
+  791  gedit fp_th_tar.php
+  792  bg
+  793  less lsr_sdcard_0927 
+  794  cp fp_th_tar.php fp_th_tar_May.php 
+  795  php fp_th_tar.php Apr | head
+  796  php fp_th_tar.php lsr_sdcard_0927 Apr | head
+  797  php fp_th_tar.php lsr_sdcard_0927 Apr > t_Apr
+  798  wc t_Apr
+  799  less lsr_sdcard_0927 
+  800  php fp_th_tar.php lsr_sdcard_0927 Jul | head
+  801  php fp_th_size.php lsr_sdcard_0927 Jul | head
+  802  php fp_th_size.php lsr_sdcard_0927 Jul > o_size_Jul
+  803  wc o_size_Jul 
+  804  ls
+  805  gedit sum.a
+  806  awk -f sum.a o_size_Jul 
+  807  php fp_th_tar.php lsr_sdcard_0927 Jul > t_Jul
+  808  wc t_Jul
+  809  man head
+  810  head -n 2000 t_Jul > t_Jul_1
+  811  wc t_Jul_1
+  812  gksu baobab &
+  813  cd
+  814  cd Documents/
+  815  cd 2018-01
+  816  ls
+  817  cd ..
+  818  cd Lenovo-K5/
+  819  ls
+  820  diff -r 2018-01 /media/augustus/SAMSUNG/2018-09/Lenovo-K5/2018-01
+  821  rm -fr 2018-01
+  822  diff -r WhatsApp /media/augustus/SAMSUNG/2018-09/Lenovo-K5/WhatsApp
+  823  rm -fr WhatsApp
+  824  df
+  825  du -s .
+  826  diff -r Camera-0511/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Camera-0511/
+  827  rm -fr Camera-0511/
+  828  diff -r cn.wps.moffice_eng /media/augustus/SAMSUNG/2018-09/Lenovo-K5/cn.wps.moffice_eng/
+  829  rm -fr cn.wps.moffice_eng/
+  830  diff -r Pictures/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Pictures
+  831  rm -fr Pictures/
+  832  df
+  833  history | grep ssh
+  834  ssh -p 2022 root@192.168.43.1
+  835  ssh-keygen -f "/home/augustus/.ssh/known_hosts" -R [192.168.43.1]:2022
+  836  ssh -p 2022 root@192.168.43.1
+  837  ls
+  838  cd system/
+  839  cd tencent/
+  840  ls
+  841  cd 0927
+  842  ls
+  843  gedit rm.a
+  844  awk -f rm.a t_Jul_1 | head
+  845  awk -f rm.a t_Jul_1 | head > rm_jul_1
+  846  tar vtf jul1.tar.gz | head
+  847  ls
+  848  head rm_jul_1 
+  849  sh rm_jul_1 &
+  850  df
+  851  man tail
+  852  head -n 4000 t_Jul | tail -n 2000 > t_jul_2
+  853  wc rm_jul_1 
+  854  less rm_jul_1 
+  855  awk -f rm.a t_Jul_1 > rm_jul_1
+  856  ls
+  857  tar vtf jul2.tar.gz | head 
+  858  ls
+  859  awk -f rm.a t_jul_2 > rm_jul_2
+  860  sudo nethogs 
+  861  ps axf
+  862  kill 1425
+  863  sudo kill 1425
+  864  cd system/
+  865  tail h_kbd_backlight 
+  866  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  867  bg
+  868  ls
+  869  teamviewer --daemon start
+  870  df
+  871  ｃｄ
+  872  cd 
+  873  cd system
+  874  ls
+  875  tail h_kbd_backlight 
+  876  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  877  bg
+  878  sudo vncserver-x11-serviced 
+  879  cd tencent/
+  880  ls
+  881  cd 0927
+  882  ls
+  883  mv t_Jul t_jul
+  884  wc t_jul
+  885  wc t_Jul_1 t_jul_2 
+  886  head -n 6000 t_jul | tail -n 2000 > t_jul_3
+  887  awk -f rm.a t_jul_3 > rm_jul_3
+  888  less rm_jul_3
+  889  tar vtf jul3.tar.gz | head
+  890  cd ..
+  891  cd devel/
+  892  ls
+  893  cd /media/augustus/SAMSUNG/
+  894  cd 2018-099
+  895  cd 2018-09
+  896  cd Firefox/
+  897  ls
+  898  cd src
+  899  ls
+  900  cd swacker/
+  901  ls
+  902  less devtools/server/actors/root.js
+  903  less devtools/server/actors/webconsole.js
+  904  ls devtools/server/actors/
+  905  cd /media/augustus/SAMSUNG/
+  906  cd 2018-099
+  907  cd 2018-09
+  908  ls
+  909  cd Firefox/
+  910  ls
+  911  cd src
+  912  ls
+  913  cd swacker/
+  914  ls
+  915  grep -i console */* 2> /dev/null | less
+  916  grep -i console */*/* 2> /dev/null | less
+  917  cd devtools/
+  918  ls
+  919  cd startup
+  920  ls
+  921  less devtools-startup.js
+  922  grep -n window.document devtools-startup.js | less
+  923  less devtools-startup.js
+  924  wc devtools-startup.js
+  925  less devtools-startup.js
+  926  grep -i input *
+  927  cd ..
+  928  grep -i input *
+  929  grep -i input */*
+  930  grep -i input */* 2> /dev/null
+  931  cd ..
+  932  grep -i input */* 2> /dev/null
+  933  grep -i input */* 2> /dev/null | less
+  934  grep -i input */* 2> /dev/null | grep -i console
+  935  grep -i input */* 2> /dev/null | grep -i string
+  936  grep -i input */* 2> /dev/null | grep -i command
+  937  grep -i input */* 2> /dev/null | grep -i string | less
+  938  grep -i input */* 2> /dev/null | less
+  939  grep -i -n input */* 2> /dev/null | less
+  940  grep -i -n console */* 2> /dev/null | less
+  941  grep -i -n console */*/* 2> /dev/null | less
+  942  grep -i -n webConsoleCommands */*/* 2> /dev/null | less
+  943  grep -i -n webConsoleCommands */*/* 2> /dev/null 
+  944  grep -i -n webConsoleCommands */*/*/* 2> /dev/null 
+  945  grep -i -n defineProperty */*/*/* 2> /dev/null 
+  946  grep -i -n defineProperty */*/*/* 2> /dev/null  | less
+  947  grep -i -n evalWin */*/*/* 2> /dev/null 
+  948  history | grep ssh
+  949  ssh -p 2022 root@192.168.43.1
+  950  history
+  951  history > h_rm
+  952  df
+  953  gksu baobab &
+  954  df
+  955  cd
+  956  cd system/
+  957  tail h_kbd_backlight 
+  958  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  959  bg
+  960  df
+  961  ｌｓ
+  962  cd /media/augustus/SAMSUNG/
+  963  cd 2018-099
+  964  cd 2018-09
+  965  ls
+  966  cd Firefox/
+  967  ls
+  968  cd src
+  969  ls
+  970  cd swacker/
+  971  ls js/src/vm/Interpreter.cpp
+  972  less js/src/vm/Interpreter.cpp
+  973  less security/nss/lib/freebl/mpi/mpi.c
+  974  cd /media/augustus/SAMSUNG/
+  975  cd 2018-099
+  976  cd 2018-09
+  977  cd Firefox/
+  978  ls
+  979  cd src
+  980  ls
+  981  cd swacker/
+  982  ls
+  983  cd js
+  984  ls
+  985  cd src
+  986  cd jit
+  987  ls
+  988  less BaselineIC.cpp 
+  989  ps axf
+  990  ps axf|less
+  991  sudo service lightdm restart
+  992  cd system/
+  993  tail h_kbd_backlight 
+  994  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+  995  bg
+  996  cd 
+  997  cd Documents/
+  998  diff -r Lenovo-K5/ /media/augustus/SAMSUNG/2018-09/Lenovo-K5/Lenovo-K5/
+  999  rm -fr Lenovo-K5/*
+ 1000  df
+ 1001  cd /media/augustus/SAMSUNG/
+ 1002  cd 2018-09
+ 1003  cd Firefox/
+ 1004  cd src
+ 1005  ls
+ 1006  cd swacker/
+ 1007  ls
+ 1008  cd js
+ 1009  cd src
+ 1010  ls
+ 1011  cd jit
+ 1012  ls
+ 1013  less BaselineIC.cpp
+ 1014  ｄｆ
+ 1015  df
+ 1016  cd system/
+ 1017  ls
+ 1018  tail h_kbd_backlight 
+ 1019  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+ 1020  gksu baobab &
+ 1021  ls /home/augustus/.thunderbird/b4uxl06n.default/ImapMail/imap.gmail-1.com/[Gmail].sbd
+ 1022  less /home/augustus/.thunderbird/b4uxl06n.default/ImapMail/imap.gmail-1.com/\[Gmail\].sbd/All\ Mail
+ 1023  cd /home/augustus/.thunderbird/b4uxl06n.default/ImapMail/imap.gmail-1.com/\[Gmail\].sbd/
+ 1024  ls
+ 1025  gzip Trash
+ 1026  ls
+ 1027  ls -l
+ 1028  cd ..
+ 1029  ls
+ 1030  gzip iCub-video
+ 1031  df
+ 1032  ls
+ 1033  du
+ 1034  du * | sort -n
+ 1035  cd ..
+ 1036  ls
+ 1037  cd ..
+ 1038  ls
+ 1039  cd Mail
+ 1040  ls
+ 1041  cd Local\ Folders/
+ 1042  ls
+ 1043  ls -l
+ 1044  gzip Gmail_2018_10
+ 1045  ls
+ 1046  ls -l
+ 1047  df
+ 1048  cd system/
+ 1049  tail h_kbd_backlight 
+ 1050  gksu gedit /sys/class/leds/dell::kbd_backlight/brightness
+ 1051  bg
+ 1052  cd /media/sda2
+ 1053  ls
+ 1054  cd /media/augustus/SAMSUNG/
+ 1055  cd 2018-09
+ 1056  ls
+ 1057  cd Firefox/
+ 1058  ls
+ 1059  cd src
+ 1060  ls
+ 1061  cd swacker/
+ 1062  ls
+ 1063  grep case */* 2> /dev/null | less
+ 1064  grep case */*/* 2> /dev/null | less
+ 1065  less widget/BasicEvents.h 
+ 1066  less widget/TextEventDispatcher.cpp
+ 1067  ls -l
+ 1068  df
+ 1069  ls -l
+ 1070  df
+ 1071  du -s .
+ 1072  df
+ 1073  df
+ 1074  gksu baobab &
+ 1075  cd Documents/
+ 1076  diff -r CCP411-201807/ /media/augustus/SAMSUNG/2018-09/CCP411-201807/
+ 1077  rm -fr CCP411-201807/
+ 1078  df
+ 1079  cd ..
+ 1080  du -s Downloads/
+ 1081  cd Downloads/
+ 1082  df
+ 1083  cd
+ 1084  cd .thu
+ 1085  cd .thunderbird/
+ 1086  ls
+ 1087  cd b4uxl06n.default/
+ 1088  ls
+ 1089  cd ImapMail/
+ 1090  ls
+ 1091  cd imap.gmail-1.com/
+ 1092  ls
+ 1093  cd \[Gmail\].sbd/
+ 1094  ls
+ 1095  df
+ 1096  ls
+ 1097  ls -l
+ 1098  rm Trash
+ 1099  df
+ 1100  ls
+ 1101  ls -l
+ 1102  cd ..
+ 1103  ls
+ 1104  cd ..
+ 1105  ls
+ 1106  cd ..
+ 1107  ls
+ 1108  cd b4uxl06n.default/
+ 1109  ls
+ 1110  cd Mail/
+ 1111  ls
+ 1112  cd Local\ Folders/
+ 1113  ls
+ 1114  ls -l
+ 1115  gzip Gmail_2018_10_2
+ 1116  df
+ 1117  cd
+ 1118  cd .thunderbird/
+ 1119  ls
+ 1120  mkdir _d
+ 1121  ls -lR > _d/lsr_20181008 &
+ 1122  du > _d/du_1008 &
+ 1123  tail _d/du_1008 
+ 1124  sort -n _d/du_1008 
+ 1125  ｄｆ
+ 1126  df
+ 1127  ncftp ftpupload.net
+ 1128  ncftp ftpupload.net -u epiz_22813963 -p gruui5gl
+ 1129  ncftp ftpupload.net -u epiz_22813963 -p swackers5gl
+ 1130  ncftp ftpupload.net -u epiz_22297078  -p gruui5gl
+ 1131  man ncftp
+ 1132  ncftp ftpupload.net -u epiz_22297078  -p gruui5gl
+ 1133  ncftp ftpupload.net -u epiz_22813963 -p swackers5gl
+ 1134  ls /var/www/htl
+ 1135  ls /var/www/html
+ 1136  cd devel
+ 1137  cd 5gl
+ 1138  ls
+ 1139  mkdir templates
+ 1140  cd templates/
+ 1141  ls
+ 1142  unzip ~/Downloads/startbootstrap-freelancer-gh-pages.zip 
+ 1143  ls
+ 1144  cd startbootstrap-freelancer-gh-pages/
+ 1145  ls
+ 1146  du -s .
+ 1147  ls
+ 1148  less index.html 
+ 1149  ls
+ 1150  cp index.html index.php
+ 1151  gedit index.php
+ 1152  bg
+ 1153  ls
+ 1154  ls ..
+ 1155  ls ../..
+ 1156  cp -avr ../../hgrpn/pdo .
+ 1157  cd pdo
+ 1158  ls
+ 1159  grep fgl_php *
+ 1160  gedit libfgl.php
+ 1161  cd ..
+ 1162  ls
+ 1163  gedit file1
+ 1164  cd pdo
+ 1165  grep fgc *
+ 1166  df
+ 1167  cd
+ 1168  cd devel/
+ 1169  cd 5gl
+ 1170  cd templates/
+ 1171  ls
+ 1172  cd startbootstrap-freelancer-gh-pages/
+ 1173  ls
+ 1174  cd pdo
+ 1175  ls
+ 1176  cp libfgl.php libfgl_1008.php
+ 1177  gedit libfgl.php 
+ 1178  bg
+ 1179  wc fgl.php 
+ 1180  grep \; fgl.php 
+ 1181  grep \; fgl.php | wc
+ 1182  grep \; fgl.php | grep -v // 
+ 1183  grep \; fgl.php | grep -v // | wc
+ 1184  grep \; fgl.php | grep -v // | grep -v echo | wc
+ 1185  grep \; fgl.php | grep -v // | grep -v echo | less
+ 1186  grep \; fgl.php | grep -v // | grep -v echo | grep fgl_s
+ 1187  grep \; fgl.php | grep -v // | grep -v echo | less
+ 1188  grep \; fgl.php | grep -v // | grep -v echo | grep -v fgl_s | wc
+ 1189  history > h_fgl_wc

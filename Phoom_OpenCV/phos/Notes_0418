@@ -1,0 +1,932 @@
+ Loading failed for the <script> with source “http://localhost/PHP/libs/three.js”. phos:1:1
+The character encoding of the HTML document was not declared. The document will render with garbled text in some browser configurations if the document contains characters from outside the US-ASCII range. The character encoding of the page must be declared in the document or in the transfer protocol. phos
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: ec:',"je: xsend:")
+undefined
+S
+(1) […]
+​
+0: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "doremi"
+​​
+responseText: "doremi"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 1
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ec:',"je: xsend:")
+undefined
+S
+(2) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "2020-04-18 09:41:33 0.42756500 1587174093"
+​​
+responseText: "2020-04-18 09:41:33 0.42756500 1587174093"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 2
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: kps: je: ec:',"je: xsend:")
+undefined
+S
+(3) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: ""
+​​
+responseText: ""
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 500
+​​
+statusText: "Internal Server Error"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 3
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: kps: je: ec:',"je: xsend:")
+undefined
+S
+(4) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "{\"init_at\":\"2020-04-18 10:04:13 0.67040800 1587175453\"}"
+​​
+responseText: "{\"init_at\":\"2020-04-18 10:04:13 0.67040800 1587175453\"}"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 4
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: kps: je: ec:',"je: xsend:")
+undefined
+S
+(5) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+4: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "{\"init_at\":\"2020-04-18 10:04:55 0.47503700 1587175495\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzPWW3xY5E4KbEnRURrQP\\nB5dybaArgggQeo3KIMUmBVtCPqzx0cHKepJVAovXdBICzMr+3u2F+ggoxojuArGc\\nCl\\/SEKF5XtAf26PNU3eE5LfoQijufPpSQfWj0DSnUWRpmHGno2ur5dBTGwzAaSBY\\nmPmPx\\/HVJ6WWTZ7f1wCb59DBr1LhtB2rfObBrlv6vsSRA73XRTMhNjR+X4WMo69i\\nVU732DL\\/0RYBZnMr5mcjfhKPgd0wkY8aHN06hyvBH56CIVjdR8o+MptcUZ\\/2CccA\\n+9xGcbt7\\/joMkpOEv9yoyJ3BmlsgdY8GlqTLCulSKH0+D8Y8eUm3T\\/\\/\\/oFy8Wgay\\nMiCqL+U6BPef5YVNkESZh4qiyfGdEvP\\/AAF2zur\\/Qc2zR9Ga6tVIhdGNa8uU+XcW\\nsBVw8VDKqrgI2FF0j\\/Kh9dQApBOOKV5cbpd4i47R30+DFgGPaF7v+aihiaJzxrKG\\nL7Rcl7eAZ9OmjFguqr8rTQOdPst+03WTt9xd2CXMT5OfW5nHk6YlKUjLEsnyreby\\nKuq26o9l8XiZZ3fnwZrCwGhRdFDICWU0qmjjGOir1UXQVO7QED\\/1LAxArjbNobat\\nDgPM\\/t0e+KPoqDsYGKz2S93fZy2eZMPzQqedvZKHhHcFTYW0GNu3T0zvtexbxl3T\\nSE3DNy4y8T5f9FTXCXVRyDsCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQDM9ZbfFjkTgpsS\\ndFRGtA8Hl3JtoCuCCBB6jcogxSYFW0I+rPHRwcp6klUCi9d0EgLMyv7e7YX6CCjG\\niO4CsZwKX9IQoXle0B\\/bo81Td4Tkt+hCKO58+lJB9aPQNKdRZGmYcaeja6vl0FMb\\nDMBpIFiY+Y\\/H8dUnpZZNnt\\/XAJvn0MGvUuG0Hat85sGuW\\/q+xJEDvddFMyE2NH5f\\nhYyjr2JVTvfYMv\\/RFgFmcyvmZyN+Eo+B3TCRjxoc3TqHK8EfnoIhWN1Hyj4ym1xR\\nn\\/YJxwD73EZxu3v+OgySk4S\\/3KjIncGaWyB1jwaWpMsK6VIofT4Pxjx5SbdP\\/\\/+g\\nXLxaBrIyIKov5ToE95\\/lhU2QRJmHiqLJ8Z0S8\\/8AAXbO6v9BzbNH0Zrq1UiF0Y1r\\ny5T5dxawFXDxUMqquAjYUXSP8qH11ACkE44pXlxul3iLjtHfT4MWAY9oXu\\/5qKGJ\\nonPGsoYvtFyXt4Bn06aMWC6qvytNA50+y37TdZO33F3YJcxPk59bmceTpiUpSMsS\\nyfKt5vIq6rbqj2XxeJlnd+fBmsLAaFF0UMgJZTSqaOMY6KvVRdBU7tAQP\\/UsDECu\\nNs2htq0OA8z+3R74o+ioOxgYrPZL3d9nLZ5kw\\/NCp529koeEdwVNhbQY27dPTO+1\\n7FvGXdNITcM3LjLxPl\\/0VNcJdVHIOwIDAQABAoICAAgdlVrCA4KNQlyptIiUKqAv\\nU\\/2ZQP\\/GF\\/jyUlWX2NiPc4EN0glvNfhCgRE3vlE\\/QVMgmpTzLMHovsyVsW7z32zd\\nvHCiJC8n6IsG4mNysRVpXs331vGl68nm0xS0cQedBT1fCrdC1SylYhUJHTlMaZWt\\nFA9juP\\/344qxRsW5pXK5ZmHt0zgRkK\\/CZ1rjE3uoRuGyC6sWyjLeQz6\\/CAGXOTqN\\nhOzPoCeESovm9Y8K+HHOhFYtDvZEh1ErRV0C04PP\\/\\/EYFrL4BBx24GHvBov+kEBo\\nyXVJajB31fWb177NGvXOoVLeVtuwzR776XpGINWvl9yCCfT3gUWuqk2MPn0GFNor\\nGlsZk3leQ+dFBtwUO2ldt+2OubFQprfWzjlGMIyXl3Ngs8ur3VVxxtPm3Fmm+4wP\\n1KOGJM4dUo5Utih7RTzeL6Iz+b3L1q6Hp5XZ8qQp4iYZdbgPjLOiNiTqL4JObo13\\nMc6hFdGuS3KvowwSRVsL+Moz2W27XdZ6mPHFAY4r33qJzaAtHKe3zSvVY0KMTls1\\nH8HDbzzRNbc7kr4ZvzfeOuNciwUJku5zCwVzwF\\/vAVvz3HS1ra2HVtGN9U2+LEnJ\\ntxxyJMhF7BND+wDD7YTscCJDrFLZCNBoBScjQbNBPyn9vnZb9VNmG3P1fx1sD2ly\\nbx+i0Efcne5kjo0pbnppAoIBAQDzhoO9sUqwZY4DhyGAP5Ys9yyYZmB3HSwksw8D\\nHnQqIKCKS6G9nTH7LtfnSsb3baYS9gA2CWnKbwR9uq3rJZKumXT+jzDasQ0ULJT9\\ntgu2BAiCAvUt6iyQ2iCVRT+fgdVIaePkRPcK90\\/yVHuCBX4WKiDcYSYK3b3T5H19\\niV59G3VoVLCSuKxJO5OJ5Nc0pkc4rNwCb14wOJrIUhgusSmA5d7GNAzKjW3Pf+\\/\\/\\nMB3pMgeCxLiTfcxLMmlbxGo4fVYc7BVYW83wWzJd\\/oy+uAi897QetB9ws7lmDVer\\nHZVtqr49yALTfDLHt4Wq\\/j+qDGfsaMFSRVraPp8r2in\\/FGL\\/AoIBAQDXdVXwoJtT\\n1BYbqIfp\\/NsO0aqzWzG2yYLRad7Xa7nL0X9PSIpVnymz0I021gi8giqG\\/5e\\/eFMq\\ngE+bpNnlxlyxJHUQdqhA7x4zFPboqZPRslpi2+lZZPtFLjFH76NknZGXuOkCPp7X\\nw\\/RfwyEAb17tEjllCmIRRs\\/dt16bs2L85oKHD9fbAwv\\/X8ku+mkjQvXMxvwuwErU\\nHUdH55MUI5T8Qnyjf837bueQdlkThplVldKUWjUIqsA7vl83rvr5AQ9nuiBX88LA\\nikj4y1dbOYqnqDKI44LZJrswo7fXvoarMvohG4byQ0OkaGwkQYRqfs+f8MxIpmSu\\nVhwwsCZk0GbFAoIBAQCH8bqPZW5lZHvPulrYRibmeSE6\\/kOxmuZuokqqGhENB2O3\\ncBsdR6iEKRU7t8G0lFBWW1+oyr501F60dUbrcvEcaOwnwvWpz5aWgYC21S5acIvz\\nUAVgmU5BmpL\\/4UVwHMFciEhAwMMMKx1FESZVYg2N\\/\\/ySKeVbwYdbxzzKnKnTu0Vi\\ndYyQi2kaBJkLLGV6rawqlkzHSzZQQvkdBL8dKacanrgq+xl85VC8uhXW5hx8doI8\\n3OaQ53PpMn4gTVhiqo0s3hnYVn9zQuWuFRCq0v+Fxd2WGkVG2\\/2OW7pp+rzVGLDU\\nulfhiX6rgOasmvwdSImnLp9k9vSNytF+YG57R\\/0vAoIBAQC7dGfICkP55C0z9SYD\\nCy6frwWANJiFOr9paV4rOJuW2\\/eSyD8rDWZf\\/tPN4NwK\\/oj3mUqymIJrGOWqOfwm\\ncLXWnSyInWP30tMIiHXlqRxltnHzTvewAi6nWvAfcTxMXtb8FTIM9OSIPwHPi1qc\\nIUmKo29yHF2EQIK7mT1j4+f8tqTb04nvD7CRiAnmqJFuz2RBvOJN3pl8ANkykyUg\\nwXBvJX2BVsGkvzITOxR264VetBJZZj58AutrT09SiBftKuH3UjWvr\\/JCSE4CwA+J\\n2\\/9prOoCtUbznUIBqH9b4nUSYDDFO0jmYGVqljt4M9R8P0ZvFjb2AmbYUy0Fo0xU\\nLAktAoIBAQCyk1yjfnH6gG8rxUf1uIqU4DWo44vsxhaYNLchGz9MB88isKMGtGNa\\ny6bLJHFwysR2LTO36yZBN860vWVKp9GnB+QMHuQtqOy2PQxYCH9yQxbxlRiBK11\\/\\nMBNys3wb35diIBZgTWomeKpvpT+upkoG2htuHZzjTnZnAbnhDFB2CDUCamowglor\\nDuC5ZL4I29U896n4shKaqUcqofATbBTPFaHS0Km+YFaExsJkBr\\/zxBgwcU9jDEwN\\nyCZiE+IMm+JVtarK3BFihYKyFYzeHrY0Ogftr03lGDET4sleqlYvHVHIaZBV0v4v\\nIGA4rv2XyWGETezdObkppeQy\\/Xw9PqMZ\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseText: "{\"init_at\":\"2020-04-18 10:04:55 0.47503700 1587175495\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAzPWW3xY5E4KbEnRURrQP\\nB5dybaArgggQeo3KIMUmBVtCPqzx0cHKepJVAovXdBICzMr+3u2F+ggoxojuArGc\\nCl\\/SEKF5XtAf26PNU3eE5LfoQijufPpSQfWj0DSnUWRpmHGno2ur5dBTGwzAaSBY\\nmPmPx\\/HVJ6WWTZ7f1wCb59DBr1LhtB2rfObBrlv6vsSRA73XRTMhNjR+X4WMo69i\\nVU732DL\\/0RYBZnMr5mcjfhKPgd0wkY8aHN06hyvBH56CIVjdR8o+MptcUZ\\/2CccA\\n+9xGcbt7\\/joMkpOEv9yoyJ3BmlsgdY8GlqTLCulSKH0+D8Y8eUm3T\\/\\/\\/oFy8Wgay\\nMiCqL+U6BPef5YVNkESZh4qiyfGdEvP\\/AAF2zur\\/Qc2zR9Ga6tVIhdGNa8uU+XcW\\nsBVw8VDKqrgI2FF0j\\/Kh9dQApBOOKV5cbpd4i47R30+DFgGPaF7v+aihiaJzxrKG\\nL7Rcl7eAZ9OmjFguqr8rTQOdPst+03WTt9xd2CXMT5OfW5nHk6YlKUjLEsnyreby\\nKuq26o9l8XiZZ3fnwZrCwGhRdFDICWU0qmjjGOir1UXQVO7QED\\/1LAxArjbNobat\\nDgPM\\/t0e+KPoqDsYGKz2S93fZy2eZMPzQqedvZKHhHcFTYW0GNu3T0zvtexbxl3T\\nSE3DNy4y8T5f9FTXCXVRyDsCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQDM9ZbfFjkTgpsS\\ndFRGtA8Hl3JtoCuCCBB6jcogxSYFW0I+rPHRwcp6klUCi9d0EgLMyv7e7YX6CCjG\\niO4CsZwKX9IQoXle0B\\/bo81Td4Tkt+hCKO58+lJB9aPQNKdRZGmYcaeja6vl0FMb\\nDMBpIFiY+Y\\/H8dUnpZZNnt\\/XAJvn0MGvUuG0Hat85sGuW\\/q+xJEDvddFMyE2NH5f\\nhYyjr2JVTvfYMv\\/RFgFmcyvmZyN+Eo+B3TCRjxoc3TqHK8EfnoIhWN1Hyj4ym1xR\\nn\\/YJxwD73EZxu3v+OgySk4S\\/3KjIncGaWyB1jwaWpMsK6VIofT4Pxjx5SbdP\\/\\/+g\\nXLxaBrIyIKov5ToE95\\/lhU2QRJmHiqLJ8Z0S8\\/8AAXbO6v9BzbNH0Zrq1UiF0Y1r\\ny5T5dxawFXDxUMqquAjYUXSP8qH11ACkE44pXlxul3iLjtHfT4MWAY9oXu\\/5qKGJ\\nonPGsoYvtFyXt4Bn06aMWC6qvytNA50+y37TdZO33F3YJcxPk59bmceTpiUpSMsS\\nyfKt5vIq6rbqj2XxeJlnd+fBmsLAaFF0UMgJZTSqaOMY6KvVRdBU7tAQP\\/UsDECu\\nNs2htq0OA8z+3R74o+ioOxgYrPZL3d9nLZ5kw\\/NCp529koeEdwVNhbQY27dPTO+1\\n7FvGXdNITcM3LjLxPl\\/0VNcJdVHIOwIDAQABAoICAAgdlVrCA4KNQlyptIiUKqAv\\nU\\/2ZQP\\/GF\\/jyUlWX2NiPc4EN0glvNfhCgRE3vlE\\/QVMgmpTzLMHovsyVsW7z32zd\\nvHCiJC8n6IsG4mNysRVpXs331vGl68nm0xS0cQedBT1fCrdC1SylYhUJHTlMaZWt\\nFA9juP\\/344qxRsW5pXK5ZmHt0zgRkK\\/CZ1rjE3uoRuGyC6sWyjLeQz6\\/CAGXOTqN\\nhOzPoCeESovm9Y8K+HHOhFYtDvZEh1ErRV0C04PP\\/\\/EYFrL4BBx24GHvBov+kEBo\\nyXVJajB31fWb177NGvXOoVLeVtuwzR776XpGINWvl9yCCfT3gUWuqk2MPn0GFNor\\nGlsZk3leQ+dFBtwUO2ldt+2OubFQprfWzjlGMIyXl3Ngs8ur3VVxxtPm3Fmm+4wP\\n1KOGJM4dUo5Utih7RTzeL6Iz+b3L1q6Hp5XZ8qQp4iYZdbgPjLOiNiTqL4JObo13\\nMc6hFdGuS3KvowwSRVsL+Moz2W27XdZ6mPHFAY4r33qJzaAtHKe3zSvVY0KMTls1\\nH8HDbzzRNbc7kr4ZvzfeOuNciwUJku5zCwVzwF\\/vAVvz3HS1ra2HVtGN9U2+LEnJ\\ntxxyJMhF7BND+wDD7YTscCJDrFLZCNBoBScjQbNBPyn9vnZb9VNmG3P1fx1sD2ly\\nbx+i0Efcne5kjo0pbnppAoIBAQDzhoO9sUqwZY4DhyGAP5Ys9yyYZmB3HSwksw8D\\nHnQqIKCKS6G9nTH7LtfnSsb3baYS9gA2CWnKbwR9uq3rJZKumXT+jzDasQ0ULJT9\\ntgu2BAiCAvUt6iyQ2iCVRT+fgdVIaePkRPcK90\\/yVHuCBX4WKiDcYSYK3b3T5H19\\niV59G3VoVLCSuKxJO5OJ5Nc0pkc4rNwCb14wOJrIUhgusSmA5d7GNAzKjW3Pf+\\/\\/\\nMB3pMgeCxLiTfcxLMmlbxGo4fVYc7BVYW83wWzJd\\/oy+uAi897QetB9ws7lmDVer\\nHZVtqr49yALTfDLHt4Wq\\/j+qDGfsaMFSRVraPp8r2in\\/FGL\\/AoIBAQDXdVXwoJtT\\n1BYbqIfp\\/NsO0aqzWzG2yYLRad7Xa7nL0X9PSIpVnymz0I021gi8giqG\\/5e\\/eFMq\\ngE+bpNnlxlyxJHUQdqhA7x4zFPboqZPRslpi2+lZZPtFLjFH76NknZGXuOkCPp7X\\nw\\/RfwyEAb17tEjllCmIRRs\\/dt16bs2L85oKHD9fbAwv\\/X8ku+mkjQvXMxvwuwErU\\nHUdH55MUI5T8Qnyjf837bueQdlkThplVldKUWjUIqsA7vl83rvr5AQ9nuiBX88LA\\nikj4y1dbOYqnqDKI44LZJrswo7fXvoarMvohG4byQ0OkaGwkQYRqfs+f8MxIpmSu\\nVhwwsCZk0GbFAoIBAQCH8bqPZW5lZHvPulrYRibmeSE6\\/kOxmuZuokqqGhENB2O3\\ncBsdR6iEKRU7t8G0lFBWW1+oyr501F60dUbrcvEcaOwnwvWpz5aWgYC21S5acIvz\\nUAVgmU5BmpL\\/4UVwHMFciEhAwMMMKx1FESZVYg2N\\/\\/ySKeVbwYdbxzzKnKnTu0Vi\\ndYyQi2kaBJkLLGV6rawqlkzHSzZQQvkdBL8dKacanrgq+xl85VC8uhXW5hx8doI8\\n3OaQ53PpMn4gTVhiqo0s3hnYVn9zQuWuFRCq0v+Fxd2WGkVG2\\/2OW7pp+rzVGLDU\\nulfhiX6rgOasmvwdSImnLp9k9vSNytF+YG57R\\/0vAoIBAQC7dGfICkP55C0z9SYD\\nCy6frwWANJiFOr9paV4rOJuW2\\/eSyD8rDWZf\\/tPN4NwK\\/oj3mUqymIJrGOWqOfwm\\ncLXWnSyInWP30tMIiHXlqRxltnHzTvewAi6nWvAfcTxMXtb8FTIM9OSIPwHPi1qc\\nIUmKo29yHF2EQIK7mT1j4+f8tqTb04nvD7CRiAnmqJFuz2RBvOJN3pl8ANkykyUg\\nwXBvJX2BVsGkvzITOxR264VetBJZZj58AutrT09SiBftKuH3UjWvr\\/JCSE4CwA+J\\n2\\/9prOoCtUbznUIBqH9b4nUSYDDFO0jmYGVqljt4M9R8P0ZvFjb2AmbYUy0Fo0xU\\nLAktAoIBAQCyk1yjfnH6gG8rxUf1uIqU4DWo44vsxhaYNLchGz9MB88isKMGtGNa\\ny6bLJHFwysR2LTO36yZBN860vWVKp9GnB+QMHuQtqOy2PQxYCH9yQxbxlRiBK11\\/\\nMBNys3wb35diIBZgTWomeKpvpT+upkoG2htuHZzjTnZnAbnhDFB2CDUCamowglor\\nDuC5ZL4I29U896n4shKaqUcqofATbBTPFaHS0Km+YFaExsJkBr\\/zxBgwcU9jDEwN\\nyCZiE+IMm+JVtarK3BFihYKyFYzeHrY0Ogftr03lGDET4sleqlYvHVHIaZBV0v4v\\nIGA4rv2XyWGETezdObkppeQy\\/Xw9PqMZ\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 5
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: kps: je: ec:',"je: xsend:")
+undefined
+S
+(6) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+4: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+5: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseText: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 6
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: kps: je: ec:',"je: xsend:")
+undefined
+S
+(7) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+4: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+5: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseText: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+6: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseText: "{\"init_at\":\"2020-04-18 10:08:58 0.34465200 1587175738\",\"pbk\":\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\",\"pvk\":\"-----BEGIN PRIVATE KEY-----\\nMIIJRAIBADANBgkqhkiG9w0BAQEFAASCCS4wggkqAgEAAoICAQCjM+fkgpBZYhft\\nt4THmrzRG670+n2Dfkj2Hpcj0fkq940EYGDjvTrk96sPYmne0s7eHJYHhFAV8rQm\\ncOGWFCiHrIWYpIln1V5tJtOV5g8W0IsiVPMAAX8UrpuI9l9hXtrb7f2y3gpsRFJJ\\ndkoCU85ixmAiY9HoV2Q1B5Icd\\/RBaBLBJCcEaV1255wcfVeZc\\/YDqAYStCCmqc7A\\nhKqqGC3o2Uj7yIuLDK3z82MoBsiaF\\/z5l3rXGG2ZP1tejmIQiexTad21QJ5zt0Jo\\noj+SbPqEQeWmo1VDQ0igkkZlN75sbfYa3ZNXC\\/7ecBfyOho\\/bQBTBrzDHSgIF2kg\\nI2VEtho44cK6a4qbvgemknedQQ89ujVBSFDPI2+7+Bdz\\/WFP9oq0VbN2pz93zYyp\\nuYSf03b+51KeqvrSJaMaHH6G0FpnTQmH+hhsEFtx0Zq7kpbqx1zYQc7Ip+Ntt6X\\/\\nXZTfH2zWEgr8xWcgoQq0FKWEdIwKLzgkbAiTsJFFSXwHlqppS5I1juNxG35qv6o7\\nW4+7cZylJRXxl2nQinr7\\/tHKLvSAAeuGht1ZLe7iexUDetyYtx1sZsqSwNccWMru\\n1cUpfDItBEy4VlyKNoa55P68e5BnRMKKxr6m2qAPQY1YxFIo\\/G7cDRHwdC050Yhc\\nVwB60wT1rXmdk1VJkJk40qKyn8cX6wIDAQABAoICAQCKNAhpwA8RQjpVOhWdGnJO\\n+gx8tCrZ0XVjxp\\/i24sPUbb\\/P8aM1NAs2XbofkR9RzObb8W0890F2ROpgenmt4di\\n7Tvs+VjKrytZb4m55KpefZd1KU7mcF33W62mnExFHphjqfQvJkzZRjoQr7UYp3Oc\\nvbTnKnS1NlxLc+\\/NX99eDA3ltQG9gKR\\/br8KeTJXZpWsnvsVl6gWurG04iPMCtHF\\n30sovLk+tSwR68fKO4RgyXOWwSprP+p\\/3eE3\\/4cXzlRshrgTJ3eHMmdwSAVhsBut\\nKEibhrFLVo0IPRaT3FLLa4r\\/USfWjPf10iLVI1La5ylhJdFvwR8HSxvg9VhqiXNF\\n4ehlk\\/AKf6Z3R4GyU\\/t97xiQch9t1bPWY0bTTzqewUUragLTIECZfr6mq3mU81+O\\ntIdmDWBZUi6fu3vvuUcRN6FVIC1RVpplxtAwqh666sdX2amSW+SfshGxPE\\/h0epU\\nZryIDa1PwLZx57VM1rQbQP\\/Hs3feevMSYVNSsuJxPIO5eLbRi2U+\\/rjiS\\/WSgWpx\\nf+uL\\/hjgjV9EmlOA3+9SaOaG\\/8qxtyRlYOLyqcNqpURF85VLv2iZtt3iK5p\\/mYwd\\nFl\\/Wh52WVaMAJoS\\/tqdzOlqAZdd7ALnYDtNAzAUOKO5RpryOzyZDaAJDOoillYdF\\nzUun8wEhNgnZtTk\\/+D49sQKCAQEAzNnwI\\/xbtDID7w0i2mPCBYcCUbEZ7pVTvjYJ\\n4JjkLVT5YPpmErc4QKHOKA3AxnhjhOtl83RnFiXTAvra6OkrxuVYm\\/iLVdfFnwQD\\npv8ZlS9DTgE0j4QWn2uTJmHbpQ6cH1ZdMbbXSdh\\/eIx9jOV0h2DPF2mIKNATds52\\n3RMa4t14CfyWMUKr322Q4Wg0XrvJPcCYiMDZ1EFISw440zBQa0dNbYwEsrSp\\/9Rm\\ncqCFGypzg99208qV5HWDNhicbvhJcMA6utH9D6hj0C8rhBPQfJdPS7htah5T1GFy\\nC3KhkuUElYe8g2hogFNrAJIFCbHRe0mkz2Mmposmq3QqW2oipQKCAQEAy\\/PMciuX\\nC8uMJ+GXDp85DGUbm51DZQ7mb5FTIZ4OrqGjc\\/hM+\\/O1ba3S+CvbN75Sqwt2Ixfd\\neTIw+e10lP\\/D3YOZ+wDKOlE1BCp32OxdV\\/4O32hypVM\\/VewekGe\\/CzMMnjRR4zTl\\ntFh9HNpyjtKb8T5\\/34E6cEAAxNKUAiBXl98yRpmp6Gcv3Im\\/\\/xrB33W+\\/TPN3RsE\\nK7a1WKIltUDbxfIiIpAoiBP\\/KpeC0a7\\/Wx3ruOGJOiUyylFWgkAp4G\\/3XOkoPvsM\\nTVLdgWaUD2Ag8dxEb98FZawL0JuUEIRCepzcsWbOeE5GoM5zRqNNtbUQhkflp\\/8k\\nt5O5BR3Y07MbTwKCAQEAjCIKRJO9p+cPCdjSntLfRyi0TW35b1x3jQcqepocfWZD\\nsjOY3\\/S2ZoBJptzBowN4ENV3SLO4UU5Oqxsv5WScrdL2arv7lR2l8sGsPfEEbymF\\nwTbR3dteHnBYmUkYGDGGW2mZFwkc\\/Uc87BovSNMug+2VvU5T9pdguUVDyrfnDIq0\\nMyC3HbueF5m8InZGXQfZAoVd0y8Z1DlUWwO\\/m7jRSpHcRbQjApzULk3+RyvH4m2H\\n2A5mGzvajg5VVAxB9yeiFZ9qjaJYmv12SlP6UL+9P33CoOno708PyZlfirVAElzY\\nZfIU40\\/pLN\\/jsuAw0hDyXIRkWfpZ1lQaf+9XinFwgQKCAQEAosu\\/7YIN10RqY4sW\\nYH2Hs\\/UgzF4DZa83EOcXTEY1wf8T0YXpLVOjBiExvRaErUImCpHjgq+SASOnJFf+\\nLtDZLv\\/U8R34TgR0JRchAu3otEv+4yUkHgMNEzCeVPX68J2W\\/NEWbB3VHNdlRpq3\\nxnkmMLKKr4UfeGoeMv1DV08pm\\/h00RXnIbL76TWrI53gEtaR1Np9AHiII7x7lHwZ\\nTUywIJjd1mjrcXNEwmKd8XGWMsz3U2PzfY4jtIqoWt+MjbHR6T\\/S+DK75xy14oxW\\nss8wfN4tYn7KeBWUeLc2wNhRmD2Ni61cMXuJtOIV8dR4OwqEXisVjbuDO2WW0ha4\\n9IKK0QKCAQBLAsqdFkooT8ORqc+hO+OzJ97nOuxplqpN+ZeWLMmdcwyC5jxppCZ+\\nAVIVufKa76HXfQFMHV\\/I1EcZixxCfz7aoKM7AQKr4cFrK073U17BeAq0gmVR+tJp\\nTET94SuEmsjYdYpl0lhkz1xlOLhweedW31mPYjUvKT\\/laMVWX\\/DzHPNqhxNnCE6N\\ne6sN1rN8QtPrAHIoSMLyFLrTnfCkkAgdQaG9Soieh2NV9+Fqsd+JQVxJKKZDIJg2\\nziq\\/z0jukzEwhcnU3EmQM6W3GwS5LqknQAwmH5TYOHaL783TMZkkwOxzOJBC2LRW\\nvcooJXpSRoSGhOuGIql9\\/+O4f0AeJChB\\n-----END PRIVATE KEY-----\\n\"}"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 7
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: pbk: je: ec:',"je: xsend:")
+undefined
+S
+(8) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+4: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+5: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+6: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+7: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\""
+​​
+responseText: "\"-----BEGIN PUBLIC KEY-----\\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF\\/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\\n6NlI+8iLiwyt8\\/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI\\/kmz6\\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu\\/gXc\\/1hT\\/aKtFWzdqc\\/d82MqbmEn9N2\\n\\/udSnqr60iWjGhx+htBaZ00Jh\\/oYbBBbcdGau5KW6sdc2EHOyKfjbbel\\/12U3x9s\\n1hIK\\/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\\npSUV8Zdp0Ip6+\\/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\\n9a15nZNVSZCZONKisp\\/HF+sCAwEAAQ==\\n-----END PUBLIC KEY-----\\n\""
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 8
+​
+<prototype>: Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: pbk: ec:',"je: xsend:")
+undefined
+S
+(9) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+2: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+3: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+4: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+5: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+6: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+7: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+8: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseText: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 9
+​
+<prototype>: Array []
+
+S[8]
+XMLHttpRequest
+​
+mozAnon: false
+​
+mozSystem: false
+​
+onabort: null
+​
+onerror: null
+​
+onload: null
+​
+onloadend: null
+​
+onloadstart: null
+​
+onprogress: null
+​
+onreadystatechange: null
+​
+ontimeout: null
+​
+readyState: 4
+​
+response: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​
+responseText: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​
+responseType: ""
+​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​
+responseXML: null
+​
+status: 200
+​
+statusText: "OK"
+​
+timeout: 0
+​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​
+withCredentials: false
+​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+
+S[8].responseText
+"-----BEGIN PUBLIC KEY-----
+MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8
+0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo
+h6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO
+YsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt
+6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6
+hEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa
+OOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2
+/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s
+1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc
+pSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy
+LQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME
+9a15nZNVSZCZONKisp/HF+sCAwEAAQ==
+-----END PUBLIC KEY-----
+"
+Navigated to http://localhost/PHP/phos/
+Loading failed for the <script> with source “http://localhost/PHP/libs/three.js”. phos:1:1
+The character encoding of the HTML document was not declared. The document will render with garbled text in some browser configurations if the document contains characters from outside the US-ASCII range. The character encoding of the page must be declared in the document or in the transfer protocol. phos
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: pbk: ec:',"je: xsend:")
+undefined
+S
+Array [ XMLHttpRequest ]
+
+F("responseText ix:")
+undefined
+S
+Array [ XMLHttpRequest, "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n" ]
+
+F("imkey: hello_phos_0419 ecr:")
+undefined
+S
+Array(3) [ XMLHttpRequest, undefined, "hello_phos_0419" ]
+
+F("jecr:")
+undefined
+S
+Array(3) [ XMLHttpRequest, undefined, "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY=" ]
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+S
+Array(4) [ XMLHttpRequest, undefined, "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY=", XMLHttpRequest ]
+
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: pbk: ec:',"je: xsend:")
+undefined
+S
+(4) […]
+​
+0: XMLHttpRequest { readyState: 4, timeout: 0, withCredentials: false, … }
+​
+1: undefined
+​
+2: "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY="
+​
+3: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseText: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 4
+​
+<prototype>: Array []
+
+S
+Array(4) [ XMLHttpRequest, undefined, "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY=", XMLHttpRequest ]
+
+F("a je: b je:")
+undefined
+S
+Array(6) [ XMLHttpRequest, undefined, "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY=", XMLHttpRequest, "\"a\"", "\"b\"" ]
+
+S.push(["a","b"])
+7
+F("je:")
+undefined
+S
+Array(7) [ XMLHttpRequest, undefined, "WeoAkSB98ufmuclHUEz3OXfwzkCef4G138Pm4mB32WMPtkC7qzliPjoG+8EHYXK5fMNsZkIBtuuUyWNAs+3iYQzSIo7JCckV5qfhQhqhOTH4GZo6REBf6meFAcw3yicUAq0dNBYCe6tZdw5X59NqGVXUsm47SUZY0FOteLujQDtgyrxxaemKXkjPa9gDtghHY0q4HYR3CChPpVRYLo2ivh+Uu77d1RERMM0XXc92UC0dEtohISGiEbMOkHBFObG1NOhTlWuvtyX26zWZ/bUratmsEd5uZeBHlsRIYNbed/eWKIOs3xDukmYm6l2oMc/dCjb3UUI6x+v2VP9CtZb75DlKO6JkHDRHOUO/zeRqVtbUtqu3f5FFF8/kiYKKvtbtEFuarRNBKybR+qbsrZXVb4kraz48ksDdGJ1uqHf0ZTEFeXWKNouDMslsg7zT3CYP4gMa9T0gi+OhoOKmORg8/0yREXjAxWd3XRmrYvGP74AjihkRQKolCtwKdYNd244SgiuwlVc+Om18NHtGwLfHOzUJkHgB9CwNDOX/jyEJQduLTfqun6YsVANOG50U58cf4JDzx0JRKOMCg3t8mFseTUsteWtw384fzsertDasXrsxumMFigfryPP2nGdq4a6YbkupShf4qxO+ufkvoM+QRCwhR1ajqH3m++fZtQ84wnY=", XMLHttpRequest, "\"a\"", "\"b\"", "[\"a\",\"b\"]" ]
+
+Navigated to http://localhost/PHP/phos/
+Loading failed for the <script> with source “http://localhost/PHP/libs/three.js”. phos:1:1
+The character encoding of the HTML document was not declared. The document will render with garbled text in some browser configurations if the document contains characters from outside the US-ASCII range. The character encoding of the page must be declared in the document or in the transfer protocol. phos
+S
+Array []
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: getkps: pbk: ec:',"je: xsend:")
+undefined
+S
+(1) […]
+​
+0: XMLHttpRequest
+​​
+mozAnon: false
+​​
+mozSystem: false
+​​
+onabort: null
+​​
+onerror: null
+​​
+onload: null
+​​
+onloadend: null
+​​
+onloadstart: null
+​​
+onprogress: null
+​​
+onreadystatechange: null
+​​
+ontimeout: null
+​​
+readyState: 4
+​​
+response: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseText: "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+​​
+responseType: ""
+​​
+responseURL: "http://localhost/PHP/phos/ajax_jd.php"
+​​
+responseXML: null
+​​
+status: 200
+​​
+statusText: "OK"
+​​
+timeout: 0
+​​
+upload: XMLHttpRequestUpload { onloadstart: null, onprogress: null, onabort: null, … }
+​​
+withCredentials: false
+​​
+<prototype>: XMLHttpRequestPrototype { open: open(), setRequestHeader: setRequestHeader(), send: send(), … }
+​
+length: 1
+​
+<prototype>: Array []
+
+F("responseText ix:")
+undefined
+S
+Array [ XMLHttpRequest, "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAozPn5IKQWWIX7beEx5q8\n0Ruu9Pp9g35I9h6XI9H5KveNBGBg47065PerD2Jp3tLO3hyWB4RQFfK0JnDhlhQo\nh6yFmKSJZ9VebSbTleYPFtCLIlTzAAF/FK6biPZfYV7a2+39st4KbERSSXZKAlPO\nYsZgImPR6FdkNQeSHHf0QWgSwSQnBGldduecHH1XmXP2A6gGErQgpqnOwISqqhgt\n6NlI+8iLiwyt8/NjKAbImhf8+Zd61xhtmT9bXo5iEInsU2ndtUCec7dCaKI/kmz6\nhEHlpqNVQ0NIoJJGZTe+bG32Gt2TVwv+3nAX8joaP20AUwa8wx0oCBdpICNlRLYa\nOOHCumuKm74HppJ3nUEPPbo1QUhQzyNvu/gXc/1hT/aKtFWzdqc/d82MqbmEn9N2\n/udSnqr60iWjGhx+htBaZ00Jh/oYbBBbcdGau5KW6sdc2EHOyKfjbbel/12U3x9s\n1hIK/MVnIKEKtBSlhHSMCi84JGwIk7CRRUl8B5aqaUuSNY7jcRt+ar+qO1uPu3Gc\npSUV8Zdp0Ip6+/7Ryi70gAHrhobdWS3u4nsVA3rcmLcdbGbKksDXHFjK7tXFKXwy\nLQRMuFZcijaGueT+vHuQZ0TCisa+ptqgD0GNWMRSKPxu3A0R8HQtOdGIXFcAetME\n9a15nZNVSZCZONKisp/HF+sCAwEAAQ==\n-----END PUBLIC KEY-----\n" ]
+
+F("imkey: hello_phos_0419 jecr:")
+undefined
+S
+Array(3) [ XMLHttpRequest, undefined, "eXkYt9O9kRzB81tZf5IygGECJfm7bbZEJz2uLWzZ6Q5h8bq+03YkdJNI9ur6uoIrQZceU2q1gZFNk8hwW5tzHDNcIV/3M4Mk0YeLlbf/2QC5VRbHfMc1J2liORSBVFekRNPvMOGbTxWede6VZxLop+E+teiQH8GJAHILIyRMF4tqEpwxvco0mDAaFJe2gXMEg/71Tohzboz74lJEbLBFeJckVf/TGO+GBnfwhwKabz+Fc0lgPawxVNAB0Bzs66klDklQf3Y++GgVn+86BM/MLpqepwJIP/xsCiE9yojYVPghqL+U3wUYR8hnC7S+cvrW2S1xO6lz0KSgJhWiU9iI0STnHnnR/UnccdCctMAFUmQt6XyNTOrIrf1y3oQCs6n7KtqTMmD1a2uqxMj3DQqlLPfTL+u5DTjU4vsy+U+LGQ75x55T09buzQREoSHV90DueVJOPc23+56m6zhBW/OjvIa4u98+SVr4fFkXdSevFDbSW0F7aqLP0c4MpzBHlZSm32SRRJZrAzE/t78qS3oBlCSGlq2GTJlSL+BUqJ0DfbGijeOTtnV8JjHT0nYBwII4H1Kcf3oV/NKzGrgpYIC86+VXC2gXwtA1pud/vnGvlEgtOM9D0DC7DCubeMcqYIt90f4LBe7Sg3Krsma5Il1SqhA0r1BMUtPSUc3Az0JJiYk=" ]
+
+F("nxhr: ajax_jd.php xo: xsqrh:")
+undefined
+S
+Array(4) [ XMLHttpRequest, undefined, "eXkYt9O9kRzB81tZf5IygGECJfm7bbZEJz2uLWzZ6Q5h8bq+03YkdJNI9ur6uoIrQZceU2q1gZFNk8hwW5tzHDNcIV/3M4Mk0YeLlbf/2QC5VRbHfMc1J2liORSBVFekRNPvMOGbTxWede6VZxLop+E+teiQH8GJAHILIyRMF4tqEpwxvco0mDAaFJe2gXMEg/71Tohzboz74lJEbLBFeJckVf/TGO+GBnfwhwKabz+Fc0lgPawxVNAB0Bzs66klDklQf3Y++GgVn+86BM/MLpqepwJIP/xsCiE9yojYVPghqL+U3wUYR8hnC7S+cvrW2S1xO6lz0KSgJhWiU9iI0STnHnnR/UnccdCctMAFUmQt6XyNTOrIrf1y3oQCs6n7KtqTMmD1a2uqxMj3DQqlLPfTL+u5DTjU4vsy+U+LGQ75x55T09buzQREoSHV90DueVJOPc23+56m6zhBW/OjvIa4u98+SVr4fFkXdSevFDbSW0F7aqLP0c4MpzBHlZSm32SRRJZrAzE/t78qS3oBlCSGlq2GTJlSL+BUqJ0DfbGijeOTtnV8JjHT0nYBwII4H1Kcf3oV/NKzGrgpYIC86+VXC2gXwtA1pud/vnGvlEgtOM9D0DC7DCubeMcqYIt90f4LBe7Sg3Krsma5Il1SqhA0r1BMUtPSUc3Az0JJiYk=", XMLHttpRequest ]
+
+F("swap:")
+undefined
+S
+Array(4) [ XMLHttpRequest, undefined, "eXkYt9O9kRzB81tZf5IygGECJfm7bbZEJz2uLWzZ6Q5h8bq+03YkdJNI9ur6uoIrQZceU2q1gZFNk8hwW5tzHDNcIV/3M4Mk0YeLlbf/2QC5VRbHfMc1J2liORSBVFekRNPvMOGbTxWede6VZxLop+E+teiQH8GJAHILIyRMF4tqEpwxvco0mDAaFJe2gXMEg/71Tohzboz74lJEbLBFeJckVf/TGO+GBnfwhwKabz+Fc0lgPawxVNAB0Bzs66klDklQf3Y++GgVn+86BM/MLpqepwJIP/xsCiE9yojYVPghqL+U3wUYR8hnC7S+cvrW2S1xO6lz0KSgJhWiU9iI0STnHnnR/UnccdCctMAFUmQt6XyNTOrIrf1y3oQCs6n7KtqTMmD1a2uqxMj3DQqlLPfTL+u5DTjU4vsy+U+LGQ75x55T09buzQREoSHV90DueVJOPc23+56m6zhBW/OjvIa4u98+SVr4fFkXdSevFDbSW0F7aqLP0c4MpzBHlZSm32SRRJZrAzE/t78qS3oBlCSGlq2GTJlSL+BUqJ0DfbGijeOTtnV8JjHT0nYBwII4H1Kcf3oV/NKzGrgpYIC86+VXC2gXwtA1pud/vnGvlEgtOM9D0DC7DCubeMcqYIt90f4LBe7Sg3Krsma5Il1SqhA0r1BMUtPSUc3Az0JJiYk=", XMLHttpRequest ]
+
+
+
+F("imkey: hello_phos_0419 jecr:")
+
+
+F("hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: s:',"2je: xsend:") 
+
+
+F("hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: getkps: dcr: s:',"2je: xsend:") 
+
+
+F("nxhr: phos_ajax.php xo: xsqrh: aaa") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: getkps: kps: s:',"2je: xsend:") 
+
+
+F("nxhr: phos_ajax.php xo: xsqrh: dummy_string")
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: kps: je: ec:',"2je: xsend:")
+
+
+
+F("nxhr: phos_ajax.php xo: xsqrh: dummy_string")
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: pbk: ec:',"2je: xsend:")
+
+F("responseText ix: imkey:")
+
+F("responseText ix: imkey: hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: s:',"2je: xsend:") 
+
+
+F("hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: s:',"2je: xsend:") 
+
+
+F("nxhr: phos_ajax.php xo: xsqrh: dummy_string")
+F('a b c 9 3 + ON ECHO bv: doremi ssid: sstart: sstat: sid: init: ossl: putkps: pbk: ec:',"2je: xsend:")
+
+F("responseText ix: imkey:")
+
+F("hello_phos_0419 jecr:")
+F("nxhr: phos_ajax.php xo: xsqrh: swap:") 
+F('a b c 9 3 + ON ECHO bv: 0 si: 1 i: sstart: . getkps: dcr: ec:',"2je: xsend:") 
+
+

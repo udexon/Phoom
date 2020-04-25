@@ -1,0 +1,106 @@
+<!DOCTYPE html>  <html>  <head>     <title>5GL: Fifth Generation Graph Language</title>     <script type="text/javascript" src="../libs/three.js"></script>  </head> <body>   
+
+<u>Multitiered Stack Machine (nSM) using 5GL (Fifth Generation Graph Language)</u>
+<br><br>
+  
+  <a href="https://www.linkedin.com/pulse/mutitiered-stack-machine-nsm-using-5gl-fifth-graph-ng-ph-d-/">LinkedIn</a><br>
+  
+<a href="https://www.facebook.com/groups/483887212122959/permalink/497564564088557/">Facebook Group Project Fire4X</a><br><br>
+
+This is a simple demonstration of Multitiered Stack Machine (nSM) using 5GL (Fifth Generation Graph Language), which simply means "a stack machine within a stack machine .... (repeat up to N times)" .
+<br><br>
+
+Stack Machine (SM) has been one of the most myterious beasts in computer programming. The most ubiquitous example is actually the JavaScript engine (JSE) itself. A JavaScript statement is transformed into stack machine opcodes (SMOC) by the browser and the stack machine opcodes are executed by an "interpreter", as and when you browser the web. This happens at a few millions times per second (at least) on billions of devices around the world. 
+<br><br>
+
+https://en.wikipedia.org/wiki/JavaScript_engine
+<br><br>
+
+The operations of stack machines are highly specialized. They can be found in anything from Intel microprocessor stack engine, Forth programming language, Reverse Polish Notation calculators, PDF renderer and even the MacOS display renderer.
+<br><br>
+
+This article is intended for fresh programmers as well as non-programmers, as we suspect the ideas proposed here would be too radical for experts (who might be too old already ... besides being stubborn ...) If you think you can understand the explanation given here, you can always use them to challenge the so-called experts.
+<br><br>
+
+The world always need new ideas to be renewed. Young people must embrace new ideas to remake the world, continuously.
+<br><br>
+
+Even being a fresh programmer, we assume you are able to check the definition of JavaScript function loaded with this page. Please look at the function F(). This is the function where 5GL commands are parsed and executed. F() is the implementation of the Inverse Shunting Yard Algorithm, a name we use to describe the inverse of Dijkstra now legendary shunting yard algorithm (DSYA). 
+<br><br>
+
+ISYA is inherent in many virtual stack machine implementations, as by definiton, stack machine opcodes need to be mapped to C++/C functions before being executed. Mapping stack machine opcodes (SMOC) to a "high level programming language" (HLPL) (which includes JavaScript, PHP, C/C++ etc.) is what we mean by ISYA. 
+<br><br>
+
+Before you read on, we would like to inform you that the source code that you can view using various browser facilities, can be license to you by a "Just Ask the Author" (JAA) license. This is really just a trick name for permission to share code that is a hybrid of free software and commercial license -- as we believe that ISYA is highly valuable -- whose estimated value shall be disclosed to you if you have the patience to read on, or find in other ISYA related articles.
+<br><br>
+
+
+Instructions:
+<br>
+-- Open browser console (F12). <br>
+-- Enter the following commands in the browser console: <br>
+<br>
+F("nxhr: ajax_jd.php xo: xsqrh:")
+<br> // sets up ajax connection <br><br>
+F('a b c s: 9 3 + s:',"je: xsend:")
+<br> // sends 5GL commands from browser front end to back end via ajax <br><br>
+
+S 
+<br>
+// shows stack S returned results in browser console
+<br><br>
+responseText: "\nfgl_s 393 < 1 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), )\n\nfgl_s 393 < 4 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), 1 => 'a', 2 => 'b', 3 => 'c', )\n\nfgl_s 393 < 5 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), 1 => 'a', 2 => 'b', 3 => 'c', 4 => 12, )\n"
+<br> <br>
+
+The responseText is PHP output, showing the global variable $S (stack). <br><br>
+
+$S has been displayed 3 times in this example, each time starting with "\nfgl_s 393 < N >", where N is number of items on the stack. <br><br>
+
+Initially, $S is:<br><br>
+
+\nfgl_s 393 < 1 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), )\n
+<br><br>
+
+$S[0] is the 5GL command string sent from the browser, space delimited, parsed into an array.
+<br><br>
+
+Each item in $S[0] is pushed onto the stack and processed. $S is now:
+<br><br>
+
+\nfgl_s 393 < 4 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), 1 => 'a', 2 => 'b', 3 => 'c', )\n
+<br><br>
+
+$S[1] to $S[3] are just characters, not operands.
+<br><br>
+
+$S[0][0] --> $S[1] 'a' <br>
+$S[0][1] --> $S[2] 'b' <br>
+$S[0][2] --> $S[3] 'c' <br>
+<br><br>
+
+$S[0][3] s: is a 5GL command to display the stack. It is popped from the stack and executed:
+<br><br>
+
+$S[0][3] --> $S[4] 's:'
+<br><br>
+
+Now the following items are pushed onto the stack:
+<br><br>
+
+$S[0][4] --> $S[4] '9' <br>
+$S[0][5] --> $S[5] '3' <br>
+$S[0][6] --> $S[6] '+' <br>
+<br><br>
+
+'+' is an operator. It pops the previous 2 items from the stack ('3' and '9'), add them (result=12) and push the result onto the stack.
+<br><br>
+
+The final output of the stack is:
+<br><br>
+
+< 5 > array ( 0 => array ( 0 => 'a', 1 => 'b', 2 => 'c', 3 => 's:', 4 => '9', 5 => '3', 6 => '+', 7 => 's:', ), 1 => 'a', 2 => 'b', 3 => 'c', 4 => 12, )\n"
+<br><br>
+
+
+
+</body> </html> <script>function f(){ alert("2233"); }</script><script type="text/javascript" src="pdo/fgl.js"></script>
