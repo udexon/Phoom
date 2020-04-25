@@ -1,6 +1,6 @@
 # &middot; &middot; &middot; _Now Everyone can "OpenCV"_ &middot; &middot; &middot;
 
-- _due credits to Hu Ningxin for his [OpenCV JavaScript WebAssembly Video Processing demo](https://codepen.io/huningxin/pen/NvjdeN)
+- _due credits to Hu Ningxin for his [OpenCV JavaScript WebAssembly Video Processing demo](https://codepen.io/huningxin/pen/NvjdeN)_
 
 In this article, we shall demonstrate how to simplify [Hu Ningxin OpenCV WebAssembly video processing demo](https://codepen.io/huningxin/pen/NvjdeN) into Forth like Reverse Polish Notation scripts as follow:
 
