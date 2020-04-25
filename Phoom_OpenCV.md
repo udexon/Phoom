@@ -12,8 +12,8 @@ B: F("src: gray: show:")
 C: F("src: gray: blur: show:")
 ```
 
-The _words_ (a Forth termininology) `src: gray: blur: show:` are mapped to the following JavaScript functions respectively in https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/phos/phoom.js:
-
+The _words_ (a Forth termininology) `src: gray: blur: show:` are mapped to the following JavaScript functions respectively in 
+- https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/phos/phoom.js
 ```js
 fgl_src()
 fgl_gray()
@@ -27,11 +27,11 @@ fgl_show()
 
 We have forked Hu Ningxin's demo and uploaded it to:
 
-https://github.com/udexon/Phoom/tree/master/Phoom_OpenCV
+- https://github.com/udexon/Phoom/tree/master/Phoom_OpenCV
 
 You can just unpack it in any directory accessible to a http server and run it, without any additional installation.
 
-https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/index.html
+- https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/index.html
 
 In the screenshot below, the browser running the Phoom demo is on the left hand side, and a VLC playing a video is on the right hand side. A webcam is pointing to the computer screen and the camera feed is shown at the upper left canvas on the webpage (`id="canvasOutput"`). The bottom left canvas on the webpage is used for Phoom script output.
 
