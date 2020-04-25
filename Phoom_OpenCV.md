@@ -19,7 +19,7 @@ fgl_blur()
 fgl_show()
 ```
 
-`F()` is a stack machine shell (_"smashlet"_ or _"metashellet"_) that performs the following:
+`F()` is a stack machine shell (_"smashlet"_ or _"metashellet"_, [code definition here](https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV/dist/phos/fgl.js)) that performs the following:
 - pushes non-function words on to the stack;
 - maps function words (suffixed by colon `':'`) to JavaScript functions `fgl_*()`, executes the target function, and pushes the result(s) on to the stack.
 
@@ -60,6 +60,8 @@ Figures 2A, 2B and 2C show the cropped and enlarged bottom left canvas from figu
 - Figure 2C
 
 <img src="https://github.com/udexon/Phoom/blob/master/opencv_js_wasm/large_blur.png" width=600>
+
+Figures 3A, 3B and 3C show how the scripts A, B and C are entered in the browser console, in order to execute the required OpenCV JavaScript (WebAssembly) functions.
 
 - Figure 3A
 
