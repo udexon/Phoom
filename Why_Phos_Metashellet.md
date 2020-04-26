@@ -27,6 +27,11 @@ https://groups.google.com/forum/m/#!topic/comp.lang.forth/JN8zOB59Eks
 Another way to unify programming languages. Just like wasm wat. But better. 
 
 
+### Metaprogramming should be grouped together with YAHUDI etc. ...
+
+Metaprogramming = simplifying OpenCV JavaScript
+
+
 ### Training for All
 
 Computer vision has been perceived as a "hard" area in computer programming, in that most "mortal" "web & app developers" who have often "downloaded and modified"  Android projects from github, may have given up on it due to the complexity of the mathematics concerned, or the computational demand of the algorithms which the poor browser or mobile phone fail to deliver.
