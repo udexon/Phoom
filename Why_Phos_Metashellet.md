@@ -65,6 +65,8 @@ The roles of free software programmers play on education in computer programming
 
 Phos one word at a time does not make sense without XidWeb enabling commercialization of Cloudless Computing.
 
+- https://github.com/udexon/XIDT/blob/master/XIDWeb_ID_less_Web.md
+
 This article is targeted at both senior and novice developers:
 - Senior can help develop upstream of Phoom. 
 - Junior can learn downstream, then develop upstream.
