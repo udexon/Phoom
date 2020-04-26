@@ -1,6 +1,32 @@
 # Why Phos Metashellet?
 
 
+Must write in introduction, how many sections there are in this article, how are they related:
+
+1. Metaprogramming: follow up from example code: src gray blur
+
+2. Use above to develop delta encoding. Needs recursive setTimeout.
+
+3. Highlight vision of projects A to Z. Inter-game communications, 3D next generation social networks.
+
+4. Recruit and train up teams of senior and junior programmers to develop Phoom. 
+
+Visit learnprogramming askprogrammers and other similar Reddit subs frequently.
+
+Wasm vs. raw forth in browser. Fire4x. 
+
+https://github.com/udexon/fire4x/blob/master/js.cpp
+
+https://groups.google.com/forum/m/#!topic/comp.lang.forth/45jIgX0z_24.
+
+https://groups.google.com/forum/m/#!topic/comp.lang.forth/JN8zOB59Eks
+
+- Keywords: forth f_Load1
+- Google search: fire4x forth
+
+Another way to unify programming languages. Just like wasm wat. But better. 
+
+
 ### Training for All
 
 Computer vision has been perceived as a "hard" area in computer programming, in that most "mortal" "web & app developers" who have often "downloaded and modified"  Android projects from github, may have given up on it due to the complexity of the mathematics concerned, or the computational demand of the algorithms which the poor browser or mobile phone fail to deliver.
