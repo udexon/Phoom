@@ -38,27 +38,14 @@ Get static background
 Then send only frame deltas. Recipient reconstruct images using only deltas, no background. 
 
 
+### Recursive `setTimeout`
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+
+Need this for high level control of Metashellet (function within loop).
+
+
 ## B. Metaprogramming
-
-Visit learnprogramming askprogrammers and other similar Reddit subs frequently.
-
-Wasm vs. raw forth in browser. Fire4x. 
-
-https://github.com/udexon/fire4x/blob/master/js.cpp
-
-https://groups.google.com/forum/m/#!topic/comp.lang.forth/45jIgX0z_24.
-
-https://groups.google.com/forum/m/#!topic/comp.lang.forth/JN8zOB59Eks
-
-- Keywords: forth f_Load1
-- Google search: fire4x forth
-
-Another way to unify programming languages. Just like wasm wat. But better. 
-
-
-### Metaprogramming should be grouped together with YAHUDI etc. ...
-
-Metaprogramming = simplifying OpenCV JavaScript
 
 
 ### Training for All
@@ -83,8 +70,6 @@ Article aims at both senior and novice developers. Senior can help develop upstr
 From Hu Ningxin to Nobody. 
 
 
-
-
 ### Metaprogramming
 
 Understanding of stack machine programming helps breakdown algorithms into smaller steps and components, as we know the fundamental building blocks that anything can be broken down to. 
@@ -105,12 +90,28 @@ Use one word to define one parameter, save as global variable or object property
 Most important feature of shellet is RPN interactiveness, not possible in most conventional programming languages.
 
 
+Visit learnprogramming askprogrammers and other similar Reddit subs frequently.
 
-### Recursive `setTimeout`
+Wasm vs. raw forth in browser. Fire4x. 
 
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_and_intervals
+https://github.com/udexon/fire4x/blob/master/js.cpp
 
-Need this for high level control of Metashellet (function within loop).
+https://groups.google.com/forum/m/#!topic/comp.lang.forth/45jIgX0z_24.
+
+https://groups.google.com/forum/m/#!topic/comp.lang.forth/JN8zOB59Eks
+
+- Keywords: forth f_Load1
+- Google search: fire4x forth
+
+Another way to unify programming languages. Just like wasm wat. But better. 
+
+
+### Metaprogramming should be grouped together with YAHUDI etc. ...
+
+Metaprogramming = simplifying OpenCV JavaScript
+
+
+<!-- copy notes to end of sections -->
 
 
 ### Phos for Other Programming Languages
