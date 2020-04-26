@@ -1,11 +1,12 @@
 # Why Phos Metashellet?
 
-
+<!--
 Must write in introduction, how many sections there are in this article, how are they related.
 
 There should not be more than 5 main points. Too many, then split into smaller articles.
 
 Must number them. Order is also important.
+-->
 
 1. delta encoding. Needs recursive setTimeout.
 
@@ -17,6 +18,27 @@ Explain technical issue first, then teamwork (metaprogramming etc.) and bigger i
 
 4. Highlight vision of projects A to Z. Inter-game communications, 3D next generation social networks.
 
+
+
+## A. Delta Encoding
+
+### What are the odds of someone discovers video delta encoding to be used in augmented reality?
+
+Ask readers, 
+- Odds of Discovering Delta Encoding Earlier
+
+Just take static background image, and substract scene with moving human to get foreground. Easiest.
+
+Highlight philosophy to let anyone contribute code. 
+
+Make Phos script to compare Python, C++ and JavaScript, Wasm OpenCV performances.
+
+Get static background
+
+Then send only frame deltas. Recipient reconstruct images using only deltas, no background. 
+
+
+## B. Metaprogramming
 
 Visit learnprogramming askprogrammers and other similar Reddit subs frequently.
 
@@ -60,24 +82,6 @@ Article aims at both senior and novice developers. Senior can help develop upstr
 
 From Hu Ningxin to Nobody. 
 
-
-### What are the odds of someone discovers video delta encoding to be used in augmented reality?
-
-Ask readers, 
-- Odds of Discovering Delta Encoding Earlier
-
-
-### Delta Encoding
-
-Just take static background image, and substract scene with moving human to get foreground. Easiest.
-
-Highlight philosophy to let anyone contribute code. 
-
-Make Phos script to compare Python, C++ and JavaScript, Wasm OpenCV performances.
-
-Get static background
-
-Then send only frame deltas. Recipient reconstruct images using only deltas, no background. 
 
 
 
