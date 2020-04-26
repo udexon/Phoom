@@ -63,6 +63,8 @@ Computer vision has been perceived as a "hard" area in computer programming, in 
 
 The roles of free software programmers play on education in computer programming in the past few decades. Bottlenecks. How to overcome?
 
+Phos one word at a time does not make sense without XidWeb enabling commercialization of Cloudless Computing.
+
 This article is targeted at both senior and novice developers:
 - Senior can help develop upstream of Phoom. 
 - Junior can learn downstream, then develop upstream.
