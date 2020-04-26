@@ -69,6 +69,8 @@ Phos one word at a time does not make sense without XidWeb enabling commercializ
 
 XidWeb without Metashellet programming does not have the benefits of one word at a time, cannot realize reward for individual programmer, for their contribution one word at a time.
 
+Without XidWeb, it will be impossible to reward personal contribution by programmer. Without Metashellet, it will be impossible to reward individual programmers's contribution down to one word at a time.
+
 This article is targeted at both senior and novice developers:
 - Senior can help develop upstream of Phoom. 
 - Junior can learn downstream, then develop upstream.
