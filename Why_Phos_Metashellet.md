@@ -24,8 +24,11 @@ Explain technical issue first, then teamwork (metaprogramming etc.) and bigger i
 
 ### What are the odds of someone discovers video delta encoding to be used in augmented reality?
 
+<!-- 
 Ask readers, 
 - Odds of Discovering Delta Encoding Earlier
+- Use comment tag to comment out notes
+-->
 
 Just take static background image, and substract scene with moving human to get foreground. Easiest.
 
