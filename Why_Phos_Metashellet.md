@@ -44,6 +44,8 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Timeouts_
 
 Need this for high level control of Metashellet (function within loop).
 
+- XidWeb
+
 
 ## B. Metaprogramming
 
@@ -51,6 +53,14 @@ Need this for high level control of Metashellet (function within loop).
 ### Training for All
 
 Computer vision has been perceived as a "hard" area in computer programming, in that most "mortal" "web & app developers" who have often "downloaded and modified"  Android projects from github, may have given up on it due to the complexity of the mathematics concerned, or the computational demand of the algorithms which the poor browser or mobile phone fail to deliver.
+
+In this article, we demonstrated JavaScript to Phos ....
+- White box view -- senior developers
+- Black box view -- junior developers
+
+Senior developers need to know black box views and psychology of junior developers too, to make training efficient and effective.
+
+<!-- Join sections of finished text, by rearranging and adding new finished text, until no more draft notes. -->
 
 
 ### Yet Another Hybrid Upstream Downstream Interface
