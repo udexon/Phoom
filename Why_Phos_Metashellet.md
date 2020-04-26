@@ -1,15 +1,22 @@
 # Why Phos Metashellet?
 
 
-Must write in introduction, how many sections there are in this article, how are they related:
+Must write in introduction, how many sections there are in this article, how are they related.
 
-1. Metaprogramming: follow up from example code: src gray blur
+There should not be more than 5 main points. Too many, then split into smaller articles.
 
-2. Use above to develop delta encoding. Needs recursive setTimeout.
+Must number them. Order is also important.
 
-3. Highlight vision of projects A to Z. Inter-game communications, 3D next generation social networks.
+1. delta encoding. Needs recursive setTimeout.
 
-4. Recruit and train up teams of senior and junior programmers to develop Phoom. 
+Explain technical issue first, then teamwork (metaprogramming etc.) and bigger issues
+
+2. Metaprogramming: follow up from example code: src gray blur
+
+3. Recruit and train up teams of senior and junior programmers to develop Phoom. 
+
+4. Highlight vision of projects A to Z. Inter-game communications, 3D next generation social networks.
+
 
 Visit learnprogramming askprogrammers and other similar Reddit subs frequently.
 
