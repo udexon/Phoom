@@ -61,6 +61,8 @@ Computer vision has been perceived as a "hard" area in computer programming, in 
 
 - Explain free software revolution 2.0 to clone MAGAF as motivation for YAHUDI
 
+The roles of free software programmers play on education in computer programming in the past few decades. Bottlenecks. How to overcome?
+
 This article is targeted at both senior and novice developers:
 - Senior can help develop upstream of Phoom. 
 - Junior can learn downstream, then develop upstream.
