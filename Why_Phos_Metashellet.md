@@ -54,6 +54,9 @@ Need this for high level control of Metashellet (function within loop).
 
 Computer vision has been perceived as a "hard" area in computer programming, in that most "mortal" "web & app developers" who have often "downloaded and modified"  Android projects from github, may have given up on it due to the complexity of the mathematics concerned, or the computational demand of the algorithms which the poor browser or mobile phone fail to deliver.
 
+This article aims at both senior and novice developers. Senior can help develop upstream of Phoom. Junior can learn downstream, then develop upstream.
+
+
 https://github.com/udexon/Phoom/blob/master/Phoom_OpenCV.md
 
 In this article, we demonstrated JavaScript to Phos ....
@@ -77,8 +80,6 @@ Companies need YAHUDI strategy to get best benefits of both world:
 - faster and easier training for junior developers;
 - faster and easier transition for senior developers to new programming languages, tools and platforms.
  
-Article aims at both senior and novice developers. Senior can help develop upstream of Phoom. Junior can learn downstream, then develop upstream.
-
 From Hu Ningxin to Nobody. 
 
 
