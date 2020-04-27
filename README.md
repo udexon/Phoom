@@ -36,6 +36,8 @@ However, with projects A and B alone, we cannot overcome the conventional obstac
 
 As a first step, we will show that using Metashellet, we can simplify the OpenCV coding in projects A and B into something _no more complicated than bash script, but more powerful_. This should enable more interested programmers to participate while learning simultaneously. More specifically, we will show how to port the C++ functions in project B into JavaScript in project A, using Phos script. In the end, we will have a JavaScript demo web page that can capture your face but filter out the background.
 
+- [_Now Everyone can "OpenCV"_](https://github.com/udexon/Phoom/blob/master/Now_Everyone_Can_OpenCV.md)
+
 The next obstacle that we will address concerns user login. This has always been a chicken and egg problem for any new start-up project &mdash; How to secure sufficient number of users, which in turn generate sufficient revenues to sustain the project? XidWeb (ID-less Web) is a departure from conventional Unix style user ID system where every user is required to register before starting to use the system, thus becoming the biggest hassle that puts off user adoption. Instead, XidWeb employs a fundamental mechanism similar to Bitcoin and other cryptocurrencies, where user authentication is performed based on public key cryptography. 
 
 A more immediate and relevant benefit to participating developers is the ability to set up our own _Cloudless Computing_ facilities:
