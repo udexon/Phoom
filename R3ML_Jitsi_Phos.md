@@ -35,16 +35,17 @@ The Phos stack machine shell ("smashlet") was originally published in the follow
 
 - JavaScript library: http://phos.epizy.com/smashlet/pdo/fgl.js
 
-It consist of a simplified stack machine (compared to Forth) which performs the following:
+It consists of a simplified stack machine (compared to Forth) which performs the following:
 - pushes non-function words (tokens) on to the stack;
 - executes function words and pushes the results on to the stack.
 
-It was initially implemented in PHP just as an experiment to see how easy it is to implement a simplified stack machine. Eventually, we realized that this simplified stack machine (which we eventually call "smashlet") can in fact be implemented in ___any known programming language___.
+It was initially implemented in PHP as an experiment to see how easy it is to implement a simplified stack machine. Eventually, we realized that this simplified stack machine (which we eventually call "smashlet") can in fact be implemented in ___any known programming language___ _with the equivalent of around 50 lines of JavaScript or PHP code_, thus making the Forth like script (hence _"Phos"_) a likely candidate to be a ___universal scripting language___.
 
-Besides Forth implementation in other programming languages (from C/C++ to Lisp, JavaScript, Java, Rust, Haskell etc.) which we too classify as smashlet, we ourselves have implemented smashlet in:
+Besides Forth implementations in other programming languages (from C/C++ to Lisp, JavaScript, Java, Rust, Haskell etc.) developed by other programmers, which we too classify as smashlet, we ourselves have implemented smashlet in:
 
-- C, C++, PHP, Python, Java, JavaScript
-- Using Laravel Blade PHP, we succeeded in creating a Reverse Polish form of HTML!!
+- C, C++, PHP, Python, Java, JavaScript &mdash; on desktop Linux and Android (Java and NDK)
+- Using Laravel Blade PHP, we succeeded in creating a Reverse Polish form of HTML!! &mdash; _a breakthrough perhaps as significant as the invention of HTML itself??_
+- An attempt to implement raw Forth within Firefox JavaScript engine as an ___compatible___ alternative to WebAssembly
 
 Porting Phos to React Redux, we have decided to call it R3ML &mdash; Reverse Polish React Redux Meta Language &mdash; where R3 is also a tribute certain robots in Star Wars.
 
