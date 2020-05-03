@@ -35,7 +35,7 @@ The Phos stack machine shell ("smashlet") was originally published in the follow
 
 It consist of a simplified stack machine (compared to Forth) which performs the following:
 - pushes non-function words (tokens) on to the stack;
-- execute function words and pushes the results on to the stack.
+- executes function words and pushes the results on to the stack.
 
 It was initially implemented in PHP just as an experiment to see how easy it is to implement a simplified stack machine. Eventually, we realized that this simplified stack machine (which we eventually call "smashlet") can in fact be implemented in ___any known programming language___.
 
@@ -44,6 +44,14 @@ Besides Forth implementation in other programming languages (from C/C++ to Lisp,
 - C, C++, PHP, Python, Java, JavaScript
 - Using Laravel Blade PHP, we succeeded in creating a Reverse Polish form of HTML!!
 
-Porting Phos to React Redux, we have decided to call it R3ML &mdash; Reverse Polish React Redux Meta Language, where R3 is also a tribute certain robots in Star Wars.
+Porting Phos to React Redux, we have decided to call it R3ML &mdash; Reverse Polish React Redux Meta Language &mdash; where R3 is also a tribute certain robots in Star Wars.
 
+While we will take a few more days to clean up R3ML `phos.js` before we upload it to our own `jitsi-meet` fork, impatient readers are urged to investigate the JavaScript source code given in the link about. While we have not included a license yet, we implicitly use the _JFKA_ license (i.e. Just F&ast;King Ask).
 
+After long winded introduction above, let's get back to detaied explanations of R3ML and the screenshots above.
+
+The code in figure 3 basically import the `Phos` class into `conference.js`, which we believe being the main entry point of `jitsi-meet`. Immediately, we create a `Phos` object with `new Phos()` and push it to a global stack `S`.
+
+The objects on `S` can be examined by entering `S` in the browser console, as shown in figure 2.
+
+In figure 1, we evaluate the expression `34 + 66`, in reverse polish notation `34 66 +` by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object.
