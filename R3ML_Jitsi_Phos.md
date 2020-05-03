@@ -26,3 +26,15 @@ Figure 3 below shows the location of the code above in the file `conference.js` 
 - Figure 3
 
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Phos/conference_js.png" width=600>
+
+The Phos stack machine shell ("smashlet") was originally published in the following web page:
+
+- http://phos.epizy.com/smashlet/
+
+- JavaScript library: http://phos.epizy.com/smashlet/pdo/fgl.js
+
+It consist of a simplified stack machine (compared to Forth) which performs the following:
+- pushes non-function words (tokens) on to the stack;
+- execute function words and pushes the results on to the stack.
+
+It was initially implemented in PHP just as an experiment to see how easy it is to implement a simplified stack machine. Eventually, we realized that this simplified stack machine (which we eventually call "smashlet") can in fact be implemented in ___any known programming language___.
