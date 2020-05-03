@@ -55,3 +55,28 @@ The code in figure 3 basically import the `Phos` class into `conference.js`, whi
 The objects on `S` can be examined by entering `S` in the browser console, as shown in figure 2.
 
 In figure 1, we evaluate the expression `34 + 66`, in reverse polish notation `34 66 +` by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object.
+
+
+## Why R3ML?
+
+As decribed in the following GitHub issue:
+
+- https://github.com/jitsi/jitsi-meet/issues/5269#issuecomment-622661995
+
+- The Tensor Flow (TFJS) Body Pix algorithm is already included in Jitsi-Meet.
+
+As such, we may ask:
+
+- Why hasn't anyone use TFJS Body Pix to extract the human body as avatar, to be used in an Augmented Reality conferencing app?
+
+We suspect it is the good old learning curve to pick up a new framework / programming language (JavaScript React Redux).
+
+Hence we hope R3ML will overcome this problem, perhaps enable thousands more developers to join our effort &mdash; Phoom: an augmented reality conferencing app.
+
+Why do we need that many developers for AR conferencing?
+
+We believe this is the new beginning of a new era of computing.
+
+- _If the 2010 decade is defined by iPhones and Android, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old,_ ___but the programming language has to be powerful and yet easy to learn like the Turtle graphics Logo programming language.___
+
+Hence ___Phoom R3ML___.
