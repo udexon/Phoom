@@ -69,14 +69,22 @@ As such, we may ask:
 
 - Why hasn't anyone use TFJS Body Pix to extract the human body as avatar, to be used in an Augmented Reality conferencing app?
 
-We suspect it is the good old learning curve to pick up a new framework / programming language (JavaScript React Redux).
+We suspect there are three primary reasons:
 
-Hence we hope R3ML will overcome this problem, perhaps enable thousands more developers to join our effort &mdash; Phoom: an augmented reality conferencing app.
+1. The good old learning curve to pick up a new framework / programming language (JavaScript React Redux).
+
+2. Lack of a powerful live debugging system like Forth for new programmers to debug and learn the internal workings of Jitsi.
+
+3. Both reasons above contribute to lack of documentation and manpower to prepare documentation, which lead to a positive feedback in difficulties in getting more developers.
+
+Hence we hope R3ML will overcome these problems, perhaps enable thousands more developers to join our effort &mdash; ___Phoom: an augmented reality conferencing app___. 
+
+The 3 problems mentioned above are not unique to Jitsi. They are perhaps generic to many other free software / open source projects.
 
 Why do we need that many developers for AR conferencing?
 
-We believe this is the new beginning of a new era of computing.
+We believe this is the new beginning of a new era of computing:
 
-- _If the 2010 decade is defined by iPhones and Android, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old,_ ___but the programming language has to be powerful and yet easy to learn like the Turtle graphics Logo programming language.___
+- _If the 2010 decade is defined by iPhone and Android mobile devices, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful and yet easy to learn___ _like the Turtle graphics Logo programming language._
 
 Hence ___Phoom R3ML___.
