@@ -38,3 +38,12 @@ It consist of a simplified stack machine (compared to Forth) which performs the 
 - execute function words and pushes the results on to the stack.
 
 It was initially implemented in PHP just as an experiment to see how easy it is to implement a simplified stack machine. Eventually, we realized that this simplified stack machine (which we eventually call "smashlet") can in fact be implemented in ___any known programming language___.
+
+Besides Forth implementation in other programming languages (from C/C++ to Lisp, JavaScript, Java, Rust, Haskell etc.) which we too classify as smashlet, we ourselves have implemented smashlet in:
+
+- C, C++, PHP, Python, Java, JavaScript
+- Using Laravel Blade PHP, we succeeded in creating a Reverse Polish form of HTML!!
+
+Porting Phos to React Redux, we have decided to call it R3ML &mdash; Reverse Polish React Redux Meta Language, where R3 is also a tribute certain robots in Star Wars.
+
+
