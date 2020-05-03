@@ -1,4 +1,4 @@
-# R3ML Jitsi Phos: 50 Years of Computer Programming
+# R3ML Jitsi Phoom: 50 Years of Computer Programming
 
 The screenshots (Figure 1 and figure 2) below comprise practices in computer programming than span over half a century, from the Forth programming language in 1968, to the latest React Redux Jitsi Meet video conferencing app written in JavaScript.
 
@@ -45,19 +45,19 @@ Besides Forth implementations in other programming languages (from C/C++ to Lisp
 
 - C, C++, PHP, Python, Java, JavaScript &mdash; on desktop Linux and Android (Java and NDK)
 - Using Laravel Blade PHP, we succeeded in creating a Reverse Polish form of HTML!! &mdash; _a breakthrough perhaps as significant as the invention of HTML itself??_
-- An attempt to implement raw Forth within Firefox JavaScript engine as an ___compatible___ alternative to WebAssembly
+- An attempt to implement raw Forth within Firefox JavaScript engine as a ___compatible___ alternative to WebAssembly
 
-Porting Phos to React Redux, we have decided to call it R3ML &mdash; Reverse Polish React Redux Meta Language &mdash; where R3 is also a tribute certain robots in Star Wars.
+Porting Phos to React Redux, we have decided to call it &mdash; ___R3ML: Reverse Polish React Redux Meta Language___ &mdash; where R3 is also a tribute to certain robots in _Star Wars_.
 
-While we will take a few more days to clean up R3ML `phos.js` before we upload it to our own `jitsi-meet` fork, impatient readers are urged to investigate the JavaScript source code given in the link about. While we have not included a license yet, we implicitly use the _JFKA_ license (i.e. Just F&ast;King Ask).
+While it will take a few more days to clean up R3ML `phos.js` before we upload it to our own `jitsi-meet` fork, impatient readers are urged to investigate the JavaScript source code given in the link about. While we have not included a license yet, we implicitly use the _JFKA_ license (i.e. _Just F&ast;King Ask_).
 
-After long winded introduction above, let's get back to detaied explanations of R3ML and the screenshots above.
+After the long winded but perhaps necessary introduction above, let's get back to detaied explanations of R3ML and the screenshots above.
 
-The code in figure 3 basically import the `Phos` class into `conference.js`, which we believe being the main entry point of `jitsi-meet`. Immediately, we create a `Phos` object with `new Phos()` and push it to a global stack `S`.
+The code in figure 3 basically imports the `Phos` class into `conference.js`, which we believe to be the main entry point of `jitsi-meet`. Immediately, we create a `Phos` object with `new Phos()` and push it on to the global stack `S`.
 
 The objects on `S` can be examined by entering `S` in the browser console, as shown in figure 2.
 
-In figure 1, we evaluate the expression `34 + 66`, in reverse polish notation `34 66 +` by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object.
+In figure 1, we evaluate the expression `"34 + 66"`, in reverse polish notation `"34 66 +"`, by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object. The result `100` is placed on top of the stack (last item of a JavaScript array) as shown in figure 2.
 
 
 ## Why R3ML?
@@ -66,7 +66,7 @@ As decribed in the following GitHub issue:
 
 - https://github.com/jitsi/jitsi-meet/issues/5269#issuecomment-622661995
 
-- The Tensor Flow (TFJS) Body Pix algorithm is already included in Jitsi-Meet.
+- TLDR: The Tensor Flow (TFJS) Body Pix algorithm is already included in Jitsi-Meet.
 
 As such, we may ask:
 
@@ -84,12 +84,12 @@ Hence we hope R3ML will overcome these problems, perhaps enable thousands more d
 
 The 3 problems mentioned above are not unique to Jitsi. They are perhaps generic to many other free software / open source projects.
 
-Why do we need that many developers for AR conferencing?
+- Why do we need that many developers for AR conferencing?
 
-We believe this is the new beginning of a new era of computing:
+We believe this is the beginning of a new era of computing:
 
-- _If the 2010 decade is defined by iPhone and Android mobile devices, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful and yet easy to learn___ _like the Turtle graphics Logo programming language._
+- _If the 2010 decade is defined by iPhone and Android mobile devices, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful___ _like Forth and yet_ ___easy to learn___ _like the Turtle graphics Logo programming language._
 
 Hence ___Phoom R3ML___.
 
-- Footnote: in figures 1 and 2, the camera is actually pointing at the monitor showing the browser console. _Can the program understand what it is seeing?_ We hope this will be a small step towards _Star Trek_ or _Star Wars_ &mdash; where Reverse Polish Notation opens up _homoiconic metaprogramming_, very likely the last mile towards achieving human level artificial intelligence. But then that belongs to another article at a later time.
+- Footnote: in figures 1 and 2, the camera is actually pointing at the monitor showing the browser console. _Can the program understand what it is seeing?_ We hope this will be a small step towards _Star Trek_ or _Star Wars_ &mdash; where Reverse Polish Notation opens up _homoiconic metaprogramming_, very likely the last mile towards achieving human level artificial intelligence. _But then that belongs to another article at another time._
