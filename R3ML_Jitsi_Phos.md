@@ -88,3 +88,5 @@ We believe this is the new beginning of a new era of computing:
 - _If the 2010 decade is defined by iPhone and Android mobile devices, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful and yet easy to learn___ _like the Turtle graphics Logo programming language._
 
 Hence ___Phoom R3ML___.
+
+- Footnote: in figures 1 and 2, the camera is actually pointing at the monitor showing the browser console. _Can the program understand what it is seeing?_ We hope this will be a small step towards _Star Trek_ or _Star Wars_ &mdash; where Reverse Polish Notation opens up _homoiconic metaprogramming_, very likely the last mile towards achieving human level artificial intelligence. But then that belongs to another article at a later time.
