@@ -27,7 +27,7 @@ Figure 3 below shows the location of the code above in the file `conference.js` 
 
 - Figure 3
 
-<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Phos/conference_js.png" width=600>
+<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Phos/conference_js.png" width=450>
 
 The Phos stack machine shell ("smashlet") was originally published in the following web page:
 
