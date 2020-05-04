@@ -1,6 +1,6 @@
 # R3ML Jitsi Phoom: 50 Years of Computer Programming
 
-The screenshots (Figure 1 and figure 2) below comprise practices in computer programming than span over half a century, from the Forth programming language in 1968, to the latest React Redux Jitsi Meet video conferencing app written in JavaScript.
+The screenshots (figure 1 and figure 2) below comprise practices in computer programming than span over half a century, from the Forth programming language in 1968, to the latest React Redux Jitsi Meet video conferencing app written in JavaScript.
 
 - Figure 1
 
@@ -51,13 +51,17 @@ Porting Phos to React Redux, we have decided to call it &mdash; ___R3ML: Reverse
 
 While it will take a few more days to clean up R3ML `phos.js` before we upload it to our own `jitsi-meet` fork, impatient readers are urged to investigate the JavaScript source code given in the link about. While we have not included a license yet, we implicitly use the _JFKA_ license (i.e. _Just F&ast;King Ask_).
 
-After the long winded but perhaps necessary introduction above, let's get back to detaied explanations of R3ML and the screenshots above.
+After the long winded but perhaps necessary introduction above, let's get back to detailed explanations of R3ML and the screenshots above.
 
 The code in figure 3 basically imports the `Phos` class into `conference.js`, which we believe to be the main entry point of `jitsi-meet`. Immediately, we create a `Phos` object with `new Phos()` and push it on to the global stack `S`.
 
 The objects on `S` can be examined by entering `S` in the browser console, as shown in figure 2.
 
-In figure 1, we evaluate the expression `"34 + 66"`, in reverse polish notation `"34 66 +"`, by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object. The result `100` is placed on top of the stack (last item of a JavaScript array) as shown in figure 2.
+In figure 1, we evaluate the expression `"34 + 66"`, in reverse polish notation `"34 66 +"`, by calling `S[0].F()` where the bottom most item (first item) on the stack is a `Phos()` object:
+
+- `S[0].F("34 66 +")`
+
+The result `100` is placed on top of the stack (last item of a JavaScript array) as shown in figure 2.
 
 
 ## Why R3ML?
