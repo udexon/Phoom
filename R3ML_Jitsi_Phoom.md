@@ -90,9 +90,9 @@ The 3 problems mentioned above are not unique to Jitsi. They are perhaps generic
 
 - Why do we need that many developers for AR conferencing?
 
-We believe this is the beginning of a new era of computing:
+__We believe this is the beginning of a new era of computing:__
 
-- _If the 2010 decade is defined by iPhone and Android mobile devices, then 2020 should be the era of Virtual Reality &mdash; 3D VR AR, with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful___ _like Forth and yet_ ___easy to learn___ _like the Turtle graphics Logo programming language._
+- _If the 2010 decade is defined by iPhone and Android mobile devices, then_ ___2020s should be the era of Virtual Reality &mdash; 3D VR AR___, _with opreating systems and devices that transcend the old, but the programming language has to be_ ___powerful___ _like Forth and yet_ ___easy to learn___ _like the Turtle graphics Logo programming language._
 
 Hence ___Phoom R3ML___.
 
