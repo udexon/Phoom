@@ -90,39 +90,17 @@ export default class JitsiStreamBlurEffect {
             7 // Constant for edge blur, integer values between 0-20
         );
         else {
-            // case 'mask':
+            
             const canvas = this._outputCanvasElement
             const ctx = canvas.getContext('2d');
             
             const foregroundColor = {r: 255, g: 255, b: 255, a: 255};
             const backgroundColor = {r: 0, g: 0, b: 0, a: 255};
             
-            /*
-            const mask = bodyPix.toMask(
-                multiPersonSegmentation, foregroundColor, backgroundColor,
-                true);
-            */
-                
             const mask = bodyPix.toMask(
                 this._segmentationData, foregroundColor, backgroundColor,
                 true);                
 
-            /*
-            bodyPix.drawMask(
-                canvas, state.video, mask, guiState.segmentation.opacity,
-                guiState.segmentation.maskBlurAmount, flipHorizontally);
-            */
-                
-            /*
-        bodyPix.drawBokehEffect(
-            this._outputCanvasElement,
-            this._inputVideoElement,
-            this._segmentationData,
-            20, // 12, // Constant for background blur, integer values between 0-20
-            7 // Constant for edge blur, integer values between 0-20
-        );
-            */
-            
             const opacity = 0.7;
             const maskBlurAmount = 3;
             const flipHorizontal = false;
@@ -133,7 +111,7 @@ export default class JitsiStreamBlurEffect {
                 maskBlurAmount, flipHorizontal);                                
                 
             // drawPoses( this._segmentationData, flipHorizontal, ctx );
-            // break;
+            
         }
     }
 
