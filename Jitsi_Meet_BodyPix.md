@@ -4,7 +4,9 @@ As decribed in the following GitHub issue:
 
 - https://github.com/jitsi/jitsi-meet/issues/5269#issuecomment-622661995
 
-- TLDR: The Tensor Flow (TFJS) Body Pix algorithm is already included in Jitsi-Meet.
+  - Question: How to extract human faces and bodies from Jitsi-Meet as Avatars in Augmented Reality Conferencing App?
+
+  - TLDR: The Tensor Flow (TFJS) Body Pix algorithm is already included in Jitsi-Meet.
 
 1. The file and function that need to be modified are:
 
