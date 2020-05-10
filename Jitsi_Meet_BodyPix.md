@@ -1,4 +1,4 @@
-## Extracting Human Faces and Bodies from Jitsi-Meet as Avatars in Augmented Reality Conferencing App
+## Extracting Human Faces and Bodies from Jitsi-Meet as Avatars in Augmented Reality Conferencing App using TensorFlow.js BodyPix Algorithms
 
 As decribed in the following GitHub issue:
 
@@ -14,14 +14,15 @@ As decribed in the following GitHub issue:
 
 Output before modifications:
 
-- Figure 1: No Background Blurring
 
-<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/No_Blur.png" width=600>
-
-
-- Figure 2: Menu to turn on Background Blurring
+- Figure 1: Menu to turn on Background Blurring
 
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/JM_Menu.png" width=600>
+
+
+- Figure 2: No Background Blurring
+
+<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/No_Blur.png" width=600>
 
 
 - Figure 3: Turn On Background Blurring
@@ -43,15 +44,10 @@ Output before modifications:
 
 - https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/blur/JitsiStreamBlurEffect.js
 
-<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/code_png/Blur_Orig.png" width=600>
-
-<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/No_Blur.png" width=600>
-
-<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/Blur_Bokeh.png" width=600>
-
-
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/code_png/Blur_if_Bokeh.png" width=600>
 
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/code_png/Blur_else_Mask.png" width=600>
+
+- Figure 4: Output from BodyPix Mask function
 
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/Mask.png" width=600>
