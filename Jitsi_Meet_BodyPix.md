@@ -14,7 +14,17 @@ As decribed in the following GitHub issue:
 
 Output before modifications:
 
+- Figure 1: No Background Blurring
+
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/No_Blur.png" width=600>
+
+
+- Figure 2: Menu to turn on Background Blurring
+
+<img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/JM_Menu.png" width=600>
+
+
+- Figure 3: Turn On Background Blurring
 
 <img src="https://github.com/udexon/Phoom/blob/master/Jitsi_Meet_Mod/test_views/Blur_Bokeh.png" width=600>
 
